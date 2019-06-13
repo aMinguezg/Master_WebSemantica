@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+    <h1>Poblacion</h1>
+    <ul>
+    {% for poblacion in poblaciones %}
+      <li>
+        {{ poblacion }}
+      </li>
+    {% endfor %}
+    </ul>
+
+    <form method="post" action="/">
+        Ciudad:<br>
+        <input type="text" name="ciudad">
+        <br><br>
+        <input type="submit" value="Submit">
+    </form> 
+
+</body>
+</html>
