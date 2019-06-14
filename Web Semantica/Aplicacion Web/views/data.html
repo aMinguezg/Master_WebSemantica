@@ -1,25 +1,39 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
+{% extends "index.html" %}
 
-    <h1>Poblacion</h1>
-    <ul>
-    {% for poblacion in poblaciones %}
-      <li>
-        {{ poblacion }}
-      </li>
-    {% endfor %}
-    </ul>
+{% block titulo %} Poblacion de una ciudad {% endblock %}
 
-    <form method="post" action="/">
-        Ciudad:<br>
-        <input type="text" name="ciudad">
-        <br><br>
-        <input type="submit" value="Submit">
-    </form> 
 
-</body>
-</html>
+{% block contenido_principal %}
+
+<div itemscope itemtype="http://schema.org/City">
+  <h3 itemprop="branchCode">{{ciudad}}</h3>
+</div>
+<table class="table">
+  <tr>
+    <th>Año</th>
+    <th>Población</th>
+  </tr>
+  <tr>
+    <td itemscope itemtype="http://schema.org/population">
+      <ul class="list-group list-group-flush">
+        {% for year in years %}
+        <li class="list-group-item list-group-item-secondary">
+          {{ year }}
+        </li>
+        {% endfor %}
+      </ul>
+    </td>
+    <td itemscope itemtype="http://schema.org/Date">
+      <ul class="list-group list-group-flush">
+        {% for poblacion in poblaciones %}
+        <li class="list-group-item">
+          {{ poblacion }}
+        </li>
+        {% endfor %}
+      </ul>
+    </td>
+  </tr>
+
+</table>
+
+{% endblock %}

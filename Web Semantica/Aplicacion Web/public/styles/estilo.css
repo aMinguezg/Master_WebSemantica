@@ -1,0 +1,23 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin-right: 20px;
+  }
+
+table {
+    margin-top: 20px;
+}
+
+body {
+    text-align: center;
+}
+
+.error{
+    color: red;
+}
+
+#city{
+    width: 20%;
+    margin: auto; 
+}
+
