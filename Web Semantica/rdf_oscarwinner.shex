@@ -1,0 +1,11 @@
+PREFIX :       <http://example.org/>
+PREFIX schema: <http://schema.org/>
+PREFIX xsd:  <http://www.w3.org/2001/XMLSchema#>
+
+:OscarWinner IRI { 
+ schema:name            xsd:string  ;
+ schema:award           xsd:string  ;
+ :film           	    xsd:string  ;
+ :ceremony              xsd:integer ;
+ :year 	       			xsd:integer ; 
+}

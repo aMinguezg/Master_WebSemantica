@@ -1,0 +1,620 @@
+:OscarWinner1  schema:name   "Dances With Wolves  ";   schema:award   "Actor in a Leading Role  ";   :film   "Kevin Costner  ";   :ceremony 63;   :year  1990.
+:OscarWinner2  schema:name   "Awakenings  ";   schema:award   "Actor in a Leading Role  ";   :film   "Robert De Niro  ";   :ceremony 63;   :year  1990.
+:OscarWinner3  schema:name   "Cyrano de Bergerac  ";   schema:award   "Actor in a Leading Role  ";   :film   "Gerard Depardieu  ";   :ceremony 63;   :year  1990.
+:OscarWinner4  schema:name   "The Field  ";   schema:award   "Actor in a Leading Role  ";   :film   "Richard Harris  ";   :ceremony 63;   :year  1990.
+:OscarWinner5  schema:name   "Reversal of Fortune  ";   schema:award   "Actor in a Leading Role  ";   :film   "Jeremy Irons  ";   :ceremony 63;   :year  1990.
+:OscarWinner6  schema:name   "Longtime Companion  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Bruce Davison  ";   :ceremony 63;   :year  1990.
+:OscarWinner7  schema:name   "The Godfather, Part III  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Andy Garcia  ";   :ceremony 63;   :year  1990.
+:OscarWinner8  schema:name   "Dances With Wolves  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Graham Greene  ";   :ceremony 63;   :year  1990.
+:OscarWinner9  schema:name   "Dick Tracy  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Al Pacino  ";   :ceremony 63;   :year  1990.
+:OscarWinner10  schema:name   "Good Fellas  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Joe Pesci  ";   :ceremony 63;   :year  1990.
+:OscarWinner11  schema:name   "Misery  ";   schema:award   "Actress in a Leading Role  ";   :film   "Kathy Bates  ";   :ceremony 63;   :year  1990.
+:OscarWinner12  schema:name   "The Grifters  ";   schema:award   "Actress in a Leading Role  ";   :film   "Anjelica Huston  ";   :ceremony 63;   :year  1990.
+:OscarWinner13  schema:name   "Pretty Woman  ";   schema:award   "Actress in a Leading Role  ";   :film   "Julia Roberts  ";   :ceremony 63;   :year  1990.
+:OscarWinner14  schema:name   "Postcards from the Edge  ";   schema:award   "Actress in a Leading Role  ";   :film   "Meryl Streep  ";   :ceremony 63;   :year  1990.
+:OscarWinner15  schema:name   "Mr. & Mrs. Bridge  ";   schema:award   "Actress in a Leading Role  ";   :film   "Joanne Woodward  ";   :ceremony 63;   :year  1990.
+:OscarWinner16  schema:name   "The Grifters  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Annette Bening  ";   :ceremony 63;   :year  1990.
+:OscarWinner17  schema:name   "Good Fellas  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Lorraine Bracco  ";   :ceremony 63;   :year  1990.
+:OscarWinner18  schema:name   "Ghost  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Whoopi Goldberg  ";   :ceremony 63;   :year  1990.
+:OscarWinner19  schema:name   "Wild at Heart  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Diane Ladd  ";   :ceremony 63;   :year  1990.
+:OscarWinner20  schema:name   "Dances With Wolves  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Mary McDonnell  ";   :ceremony 63;   :year  1990.
+:OscarWinner21  schema:name   "Art Direction: Ezio Frigerio  ";   schema:award   "Art Direction  ";   :film   "Cyrano de Bergerac   ";   :ceremony 63;   :year  1990.
+:OscarWinner22  schema:name   "Art Direction: Jeffrey Beecroft  ";   schema:award   "Art Direction  ";   :film   "Dances With Wolves   ";   :ceremony 63;   :year  1990.
+:OscarWinner23  schema:name   "Art Direction: Richard Sylbert  ";   schema:award   "Art Direction  ";   :film   "Dick Tracy   ";   :ceremony 63;   :year  1990.
+:OscarWinner24  schema:name   "Art Direction: Dean Tavoularis  ";   schema:award   "Art Direction  ";   :film   "The Godfather, Part III   ";   :ceremony 63;   :year  1990.
+:OscarWinner25  schema:name   "Art Direction: Dante Ferretti  ";   schema:award   "Art Direction  ";   :film   "Hamlet   ";   :ceremony 63;   :year  1990.
+:OscarWinner26  schema:name   "Allen Daviau  ";   schema:award   "Cinematography  ";   :film   "Avalon   ";   :ceremony 63;   :year  1990.
+:OscarWinner27  schema:name   "Dean Semler  ";   schema:award   "Cinematography  ";   :film   "Dances With Wolves   ";   :ceremony 63;   :year  1990.
+:OscarWinner28  schema:name   "Vittorio Storaro  ";   schema:award   "Cinematography  ";   :film   "Dick Tracy   ";   :ceremony 63;   :year  1990.
+:OscarWinner29  schema:name   "Gordon Willis  ";   schema:award   "Cinematography  ";   :film   "The Godfather, Part III   ";   :ceremony 63;   :year  1990.
+:OscarWinner30  schema:name   "Philippe Rousselot  ";   schema:award   "Cinematography  ";   :film   "Henry & June   ";   :ceremony 63;   :year  1990.
+:OscarWinner31  schema:name   "Gloria Gresham  ";   schema:award   "Costume Design  ";   :film   "Avalon   ";   :ceremony 63;   :year  1990.
+:OscarWinner32  schema:name   "Franca Squarciapino  ";   schema:award   "Costume Design  ";   :film   "Cyrano de Bergerac   ";   :ceremony 63;   :year  1990.
+:OscarWinner33  schema:name   "Elsa Zamparelli  ";   schema:award   "Costume Design  ";   :film   "Dances With Wolves   ";   :ceremony 63;   :year  1990.
+:OscarWinner34  schema:name   "Milena Canonero  ";   schema:award   "Costume Design  ";   :film   "Dick Tracy   ";   :ceremony 63;   :year  1990.
+:OscarWinner35  schema:name   "Maurizio Millenotti  ";   schema:award   "Costume Design  ";   :film   "Hamlet   ";   :ceremony 63;   :year  1990.
+:OscarWinner36  schema:name   "Kevin Costner  ";   schema:award   "Directing  ";   :film   "Dances With Wolves   ";   :ceremony 63;   :year  1990.
+:OscarWinner37  schema:name   "Francis Ford Coppola  ";   schema:award   "Directing  ";   :film   "The Godfather, Part III   ";   :ceremony 63;   :year  1990.
+:OscarWinner38  schema:name   "Martin Scorsese  ";   schema:award   "Directing  ";   :film   "Good Fellas   ";   :ceremony 63;   :year  1990.
+:OscarWinner39  schema:name   "Stephen Frears  ";   schema:award   "Directing  ";   :film   "The Grifters   ";   :ceremony 63;   :year  1990.
+:OscarWinner40  schema:name   "Barbet Schroeder  ";   schema:award   "Directing  ";   :film   "Reversal of Fortune   ";   :ceremony 63;   :year  1990.
+:OscarWinner41  schema:name   "Barbara Kopple and Arthur Cohn, Producers  ";   schema:award   "Documentary (Feature)  ";   :film   "American Dream   ";   :ceremony 63;   :year  1990.
+:OscarWinner42  schema:name   "Mark Kitchell, Producer  ";   schema:award   "Documentary (Feature)  ";   :film   "Berkeley in the Sixties   ";   :ceremony 63;   :year  1990.
+:OscarWinner43  schema:name   "Mark Mori and Susan Robinson, Producers  ";   schema:award   "Documentary (Feature)  ";   :film   "Building Bombs   ";   :ceremony 63;   :year  1990.
+:OscarWinner44  schema:name   "Judith Montell, Producer  ";   schema:award   "Documentary (Feature)  ";   :film   "Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade   ";   :ceremony 63;   :year  1990.
+:OscarWinner45  schema:name   "Robert Hillmann and Eugene Corr, Producers  ";   schema:award   "Documentary (Feature)  ";   :film   "Waldo Salt: A Screenwriter's Journey   ";   :ceremony 63;   :year  1990.
+:OscarWinner46  schema:name   "Kit Thomas, Producer  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Burning Down Tomorrow   ";   :ceremony 63;   :year  1990.
+:OscarWinner47  schema:name   "Karen Goodman and Kirk Simon, Producers  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Chimps: So Like Us   ";   :ceremony 63;   :year  1990.
+:OscarWinner48  schema:name   "Steven Okazaki, Producer  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Days of Waiting   ";   :ceremony 63;   :year  1990.
+:OscarWinner49  schema:name   "Derek Bromhall, Producer  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Journey into Life: The World of the Unborn   ";   :ceremony 63;   :year  1990.
+:OscarWinner50  schema:name   "Freida Lee Mock and Terry Sanders, Producers  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Rose Kennedy: A Life to Remember   ";   :ceremony 63;   :year  1990.
+:OscarWinner51  schema:name   "Neil Travis  ";   schema:award   "Film Editing  ";   :film   "Dances With Wolves   ";   :ceremony 63;   :year  1990.
+:OscarWinner52  schema:name   "Walter Murch  ";   schema:award   "Film Editing  ";   :film   "Ghost   ";   :ceremony 63;   :year  1990.
+:OscarWinner53  schema:name   "Barry Malkin, Lisa Fruchtman, Walter Murch  ";   schema:award   "Film Editing  ";   :film   "The Godfather, Part III   ";   :ceremony 63;   :year  1990.
+:OscarWinner54  schema:name   "Thelma Schoonmaker  ";   schema:award   "Film Editing  ";   :film   "Good Fellas   ";   :ceremony 63;   :year  1990.
+:OscarWinner55  schema:name   "Dennis Virkler, John Wright  ";   schema:award   "Film Editing  ";   :film   "The Hunt for Red October   ";   :ceremony 63;   :year  1990.
+:OscarWinner56  schema:name   "France  ";   schema:award   "Foreign Language Film  ";   :film   "Cyrano de Bergerac   ";   :ceremony 63;   :year  1990.
+:OscarWinner57  schema:name   "Switzerland  ";   schema:award   "Foreign Language Film  ";   :film   "Journey of Hope   ";   :ceremony 63;   :year  1990.
+:OscarWinner58  schema:name   "People's Republic of China  ";   schema:award   "Foreign Language Film  ";   :film   "Ju Dou   ";   :ceremony 63;   :year  1990.
+:OscarWinner59  schema:name   "Germany  ";   schema:award   "Foreign Language Film  ";   :film   "The Nasty Girl   ";   :ceremony 63;   :year  1990.
+:OscarWinner60  schema:name   "Italy  ";   schema:award   "Foreign Language Film  ";   :film   "Open Doors   ";   :ceremony 63;   :year  1990.
+:OscarWinner61  schema:name   "MichÃ¨le Burke, Jean-Pierre Eychenne  ";   schema:award   "Makeup  ";   :film   "Cyrano de Bergerac   ";   :ceremony 63;   :year  1990.
+:OscarWinner62  schema:name   "John Caglione, Jr., Doug Drexler  ";   schema:award   "Makeup  ";   :film   "Dick Tracy   ";   :ceremony 63;   :year  1990.
+:OscarWinner63  schema:name   "Ve Neill, Stan Winston  ";   schema:award   "Makeup  ";   :film   "Edward Scissorhands   ";   :ceremony 63;   :year  1990.
+:OscarWinner64  schema:name   "Randy Newman  ";   schema:award   "Music (Original Score)  ";   :film   "Avalon   ";   :ceremony 63;   :year  1990.
+:OscarWinner65  schema:name   "John Barry  ";   schema:award   "Music (Original Score)  ";   :film   "Dances With Wolves   ";   :ceremony 63;   :year  1990.
+:OscarWinner66  schema:name   "Maurice Jarre  ";   schema:award   "Music (Original Score)  ";   :film   "Ghost   ";   :ceremony 63;   :year  1990.
+:OscarWinner67  schema:name   "David Grusin  ";   schema:award   "Music (Original Score)  ";   :film   "Havana   ";   :ceremony 63;   :year  1990.
+:OscarWinner68  schema:name   "John Williams  ";   schema:award   "Music (Original Score)  ";   :film   "Home Alone   ";   :ceremony 63;   :year  1990.
+:OscarWinner69  schema:name   "Music and Lyric by Jon Bon Jovi  ";   schema:award   "Music (Original Song)  ";   :film   ""Blaze Of Glory" from Young Guns II  ";   :ceremony 63;   :year  1990.
+:OscarWinner70  schema:name   "Music and Lyric by Shel Silverstein  ";   schema:award   "Music (Original Song)  ";   :film   ""I'm Checkin' Out" from Postcards from the Edge  ";   :ceremony 63;   :year  1990.
+:OscarWinner71  schema:name   "Music by Carmine Coppola  ";   schema:award   "Music (Original Song)  ";   :film   ""Promise Me You'll Remember" from The Godfather, Part III  ";   :ceremony 63;   :year  1990.
+:OscarWinner72  schema:name   "Music by John Williams  ";   schema:award   "Music (Original Song)  ";   :film   ""Somewhere In My Memory" from Home Alone  ";   :ceremony 63;   :year  1990.
+:OscarWinner73  schema:name   "Music and Lyric by Stephen Sondheim  ";   schema:award   "Music (Original Song)  ";   :film   ""Sooner Or Later (I Always Get My Man)" from Dick Tracy  ";   :ceremony 63;   :year  1990.
+:OscarWinner74  schema:name   "Walter F. Parkes and Lawrence Lasker, Producers  ";   schema:award   "Best Picture  ";   :film   "Awakenings   ";   :ceremony 63;   :year  1990.
+:OscarWinner75  schema:name   "Jim Wilson and Kevin Costner, Producers  ";   schema:award   "Best Picture  ";   :film   "Dances With Wolves   ";   :ceremony 63;   :year  1990.
+:OscarWinner76  schema:name   "Lisa Weinstein, Producer  ";   schema:award   "Best Picture  ";   :film   "Ghost   ";   :ceremony 63;   :year  1990.
+:OscarWinner77  schema:name   "Francis Ford Coppola, Producer  ";   schema:award   "Best Picture  ";   :film   "The Godfather, Part III   ";   :ceremony 63;   :year  1990.
+:OscarWinner78  schema:name   "Irwin Winkler, Producer  ";   schema:award   "Best Picture  ";   :film   "Good Fellas   ";   :ceremony 63;   :year  1990.
+:OscarWinner79  schema:name   "Nick Park  ";   schema:award   "Short Film (Animated)  ";   :film   "Creature Comforts   ";   :ceremony 63;   :year  1990.
+:OscarWinner80  schema:name   "Nick Park  ";   schema:award   "Short Film (Animated)  ";   :film   "A Grand Day Out   ";   :ceremony 63;   :year  1990.
+:OscarWinner81  schema:name   "Bruno Bozzetto  ";   schema:award   "Short Film (Animated)  ";   :film   "Grasshoppers (Cavallette)   ";   :ceremony 63;   :year  1990.
+:OscarWinner82  schema:name   "Raymond De Felitta, Matthew Gross  ";   schema:award   "Short Film (Live Action)  ";   :film   "Bronx Cheers   ";   :ceremony 63;   :year  1990.
+:OscarWinner83  schema:name   "Peter Cattaneo, Barnaby Thompson  ";   schema:award   "Short Film (Live Action)  ";   :film   "Dear Rosie   ";   :ceremony 63;   :year  1990.
+:OscarWinner84  schema:name   "Adam Davidson  ";   schema:award   "Short Film (Live Action)  ";   :film   "The Lunch Date   ";   :ceremony 63;   :year  1990.
+:OscarWinner85  schema:name   "Bernard Joffa, Anthony E. Nicholas  ";   schema:award   "Short Film (Live Action)  ";   :film   "Senzeni Na? (What Have We Done?)   ";   :ceremony 63;   :year  1990.
+:OscarWinner86  schema:name   "Hillary Ripps, Jonathan Heap  ";   schema:award   "Short Film (Live Action)  ";   :film   "0,500694444444444  ";   :ceremony 63;   :year  1990.
+:OscarWinner87  schema:name   "Jeffrey Perkins, Bill W. Benton, Greg Watkins, Russell Williams II  ";   schema:award   "Sound  ";   :film   "Dances With Wolves   ";   :ceremony 63;   :year  1990.
+:OscarWinner88  schema:name   "Donald O. Mitchell, Rick Kline, Kevin O'Connell, Charles Wilborn  ";   schema:award   "Sound  ";   :film   "Days of Thunder   ";   :ceremony 63;   :year  1990.
+:OscarWinner89  schema:name   "Chris Jenkins, David E. Campbell, D. M. Hemphill, Thomas Causey  ";   schema:award   "Sound  ";   :film   "Dick Tracy   ";   :ceremony 63;   :year  1990.
+:OscarWinner90  schema:name   "Don Bassman, Richard Overton, Kevin F. Cleary, Richard Bryce Goodman  ";   schema:award   "Sound  ";   :film   "The Hunt for Red October   ";   :ceremony 63;   :year  1990.
+:OscarWinner91  schema:name   "Michael J. Kohut, Carlos de Larios, Aaron Rochin, Nelson Stoll  ";   schema:award   "Sound  ";   :film   "Total Recall   ";   :ceremony 63;   :year  1990.
+:OscarWinner92  schema:name   "Charles L. Campbell, Richard Franklin  ";   schema:award   "Sound Effects Editing  ";   :film   "Flatliners   ";   :ceremony 63;   :year  1990.
+:OscarWinner93  schema:name   "Cecelia Hall, George Watters II  ";   schema:award   "Sound Effects Editing  ";   :film   "The Hunt for Red October   ";   :ceremony 63;   :year  1990.
+:OscarWinner94  schema:name   "Stephen H. Flick  ";   schema:award   "Sound Effects Editing  ";   :film   "Total Recall   ";   :ceremony 63;   :year  1990.
+:OscarWinner95  schema:name   "Steven Zaillian  ";   schema:award   "Writing (Screenplay Based on Material from Another Medium)  ";   :film   "Awakenings   ";   :ceremony 63;   :year  1990.
+:OscarWinner96  schema:name   "Michael Blake  ";   schema:award   "Writing (Screenplay Based on Material from Another Medium)  ";   :film   "Dances With Wolves   ";   :ceremony 63;   :year  1990.
+:OscarWinner97  schema:name   "Nicholas Pileggi, Martin Scorsese  ";   schema:award   "Writing (Screenplay Based on Material from Another Medium)  ";   :film   "Good Fellas   ";   :ceremony 63;   :year  1990.
+:OscarWinner98  schema:name   "Donald E. Westlake  ";   schema:award   "Writing (Screenplay Based on Material from Another Medium)  ";   :film   "The Grifters   ";   :ceremony 63;   :year  1990.
+:OscarWinner99  schema:name   "Nicholas Kazan  ";   schema:award   "Writing (Screenplay Based on Material from Another Medium)  ";   :film   "Reversal of Fortune   ";   :ceremony 63;   :year  1990.
+:OscarWinner100  schema:name   "Woody Allen  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Alice   ";   :ceremony 63;   :year  1990.
+:OscarWinner101  schema:name   "Barry Levinson  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Avalon   ";   :ceremony 63;   :year  1990.
+:OscarWinner102  schema:name   "Bruce Joel Rubin  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Ghost   ";   :ceremony 63;   :year  1990.
+:OscarWinner103  schema:name   "Peter Weir  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Green Card   ";   :ceremony 63;   :year  1990.
+:OscarWinner104  schema:name   "Whit Stillman  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Metropolitan   ";   :ceremony 63;   :year  1990.
+:OscarWinner105  schema:name   "Eric Brevig, Rob Bottin, Tim McGovern, Alex Funke  ";   schema:award   "Special Achievement Award (Visual Effects)  ";   :film   "Total Recall   ";   :ceremony 63;   :year  1990.
+:OscarWinner106  schema:name   "Bugsy  ";   schema:award   "Actor in a Leading Role  ";   :film   "Warren Beatty  ";   :ceremony 64;   :year  1991.
+:OscarWinner107  schema:name   "Cape Fear  ";   schema:award   "Actor in a Leading Role  ";   :film   "Robert De Niro  ";   :ceremony 64;   :year  1991.
+:OscarWinner108  schema:name   "The Silence of the Lambs  ";   schema:award   "Actor in a Leading Role  ";   :film   "Anthony Hopkins  ";   :ceremony 64;   :year  1991.
+:OscarWinner109  schema:name   "The Prince of Tides  ";   schema:award   "Actor in a Leading Role  ";   :film   "Nick Nolte  ";   :ceremony 64;   :year  1991.
+:OscarWinner110  schema:name   "The Fisher King  ";   schema:award   "Actor in a Leading Role  ";   :film   "Robin Williams  ";   :ceremony 64;   :year  1991.
+:OscarWinner111  schema:name   "JFK  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Tommy Lee Jones  ";   :ceremony 64;   :year  1991.
+:OscarWinner112  schema:name   "Bugsy  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Harvey Keitel  ";   :ceremony 64;   :year  1991.
+:OscarWinner113  schema:name   "Bugsy  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Ben Kingsley  ";   :ceremony 64;   :year  1991.
+:OscarWinner114  schema:name   "Barton Fink  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Michael Lerner  ";   :ceremony 64;   :year  1991.
+:OscarWinner115  schema:name   "City Slickers  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Jack Palance  ";   :ceremony 64;   :year  1991.
+:OscarWinner116  schema:name   "Thelma & Louise  ";   schema:award   "Actress in a Leading Role  ";   :film   "Geena Davis  ";   :ceremony 64;   :year  1991.
+:OscarWinner117  schema:name   "Rambling Rose  ";   schema:award   "Actress in a Leading Role  ";   :film   "Laura Dern  ";   :ceremony 64;   :year  1991.
+:OscarWinner118  schema:name   "The Silence of the Lambs  ";   schema:award   "Actress in a Leading Role  ";   :film   "Jodie Foster  ";   :ceremony 64;   :year  1991.
+:OscarWinner119  schema:name   "For the Boys  ";   schema:award   "Actress in a Leading Role  ";   :film   "Bette Midler  ";   :ceremony 64;   :year  1991.
+:OscarWinner120  schema:name   "Thelma & Louise  ";   schema:award   "Actress in a Leading Role  ";   :film   "Susan Sarandon  ";   :ceremony 64;   :year  1991.
+:OscarWinner121  schema:name   "Rambling Rose  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Diane Ladd  ";   :ceremony 64;   :year  1991.
+:OscarWinner122  schema:name   "Cape Fear  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Juliette Lewis  ";   :ceremony 64;   :year  1991.
+:OscarWinner123  schema:name   "The Prince of Tides  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Kate Nelligan  ";   :ceremony 64;   :year  1991.
+:OscarWinner124  schema:name   "The Fisher King  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Mercedes Ruehl  ";   :ceremony 64;   :year  1991.
+:OscarWinner125  schema:name   "Fried Green Tomatoes  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Jessica Tandy  ";   :ceremony 64;   :year  1991.
+:OscarWinner126  schema:name   "Art Direction: Dennis Gassner  ";   schema:award   "Art Direction  ";   :film   "Barton Fink   ";   :ceremony 64;   :year  1991.
+:OscarWinner127  schema:name   "Art Direction: Dennis Gassner  ";   schema:award   "Art Direction  ";   :film   "Bugsy   ";   :ceremony 64;   :year  1991.
+:OscarWinner128  schema:name   "Art Direction: Mel Bourne  ";   schema:award   "Art Direction  ";   :film   "The Fisher King   ";   :ceremony 64;   :year  1991.
+:OscarWinner129  schema:name   "Art Direction: Norman Garwood  ";   schema:award   "Art Direction  ";   :film   "Hook   ";   :ceremony 64;   :year  1991.
+:OscarWinner130  schema:name   "Art Direction: Paul Sylbert  ";   schema:award   "Art Direction  ";   :film   "The Prince of Tides   ";   :ceremony 64;   :year  1991.
+:OscarWinner131  schema:name   "Allen Daviau  ";   schema:award   "Cinematography  ";   :film   "Bugsy   ";   :ceremony 64;   :year  1991.
+:OscarWinner132  schema:name   "Robert Richardson  ";   schema:award   "Cinematography  ";   :film   "JFK   ";   :ceremony 64;   :year  1991.
+:OscarWinner133  schema:name   "Stephen Goldblatt  ";   schema:award   "Cinematography  ";   :film   "The Prince of Tides   ";   :ceremony 64;   :year  1991.
+:OscarWinner134  schema:name   "Adam Greenberg  ";   schema:award   "Cinematography  ";   :film   "Terminator 2: Judgment Day   ";   :ceremony 64;   :year  1991.
+:OscarWinner135  schema:name   "Adrian Biddle  ";   schema:award   "Cinematography  ";   :film   "Thelma & Louise   ";   :ceremony 64;   :year  1991.
+:OscarWinner136  schema:name   "Ruth Myers  ";   schema:award   "Costume Design  ";   :film   "The Addams Family   ";   :ceremony 64;   :year  1991.
+:OscarWinner137  schema:name   "Richard Hornung  ";   schema:award   "Costume Design  ";   :film   "Barton Fink   ";   :ceremony 64;   :year  1991.
+:OscarWinner138  schema:name   "Albert Wolsky  ";   schema:award   "Costume Design  ";   :film   "Bugsy   ";   :ceremony 64;   :year  1991.
+:OscarWinner139  schema:name   "Anthony Powell  ";   schema:award   "Costume Design  ";   :film   "Hook   ";   :ceremony 64;   :year  1991.
+:OscarWinner140  schema:name   "Corinne Jorry  ";   schema:award   "Costume Design  ";   :film   "Madame Bovary   ";   :ceremony 64;   :year  1991.
+:OscarWinner141  schema:name   "John Singleton  ";   schema:award   "Directing  ";   :film   "Boyz N the Hood   ";   :ceremony 64;   :year  1991.
+:OscarWinner142  schema:name   "Barry Levinson  ";   schema:award   "Directing  ";   :film   "Bugsy   ";   :ceremony 64;   :year  1991.
+:OscarWinner143  schema:name   "Oliver Stone  ";   schema:award   "Directing  ";   :film   "JFK   ";   :ceremony 64;   :year  1991.
+:OscarWinner144  schema:name   "Jonathan Demme  ";   schema:award   "Directing  ";   :film   "The Silence of the Lambs   ";   :ceremony 64;   :year  1991.
+:OscarWinner145  schema:name   "Ridley Scott  ";   schema:award   "Directing  ";   :film   "Thelma & Louise   ";   :ceremony 64;   :year  1991.
+:OscarWinner146  schema:name   "Vince DiPersio and William Guttentag, Producers  ";   schema:award   "Documentary (Feature)  ";   :film   "Death on the Job   ";   :ceremony 64;   :year  1991.
+:OscarWinner147  schema:name   "Alan Raymond and Susan Raymond, Producers  ";   schema:award   "Documentary (Feature)  ";   :film   "Doing Time: Life inside the Big House   ";   :ceremony 64;   :year  1991.
+:OscarWinner148  schema:name   "Allie Light and Irving Saraf, Producers  ";   schema:award   "Documentary (Feature)  ";   :film   "In the Shadow of the Stars   ";   :ceremony 64;   :year  1991.
+:OscarWinner149  schema:name   "Hava Kohav Beller, Producer  ";   schema:award   "Documentary (Feature)  ";   :film   "The Restless Conscience   ";   :ceremony 64;   :year  1991.
+:OscarWinner150  schema:name   "Lawrence Hott and Diane Garey, Producers  ";   schema:award   "Documentary (Feature)  ";   :film   "Wild by Law   ";   :ceremony 64;   :year  1991.
+:OscarWinner151  schema:name   "Eric Valli and Alain Majani, Producers  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Birdnesters of Thailand (aka 'Shadow Hunters')   ";   :ceremony 64;   :year  1991.
+:OscarWinner152  schema:name   "Debra Chasnoff, Producer  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Deadly Deception: General Electric, Nuclear Weapons and Our Environment   ";   :ceremony 64;   :year  1991.
+:OscarWinner153  schema:name   "Immy Humes, Producer  ";   schema:award   "Documentary (Short Subject)  ";   :film   "A Little Vicious   ";   :ceremony 64;   :year  1991.
+:OscarWinner154  schema:name   "David McGowan, Producer  ";   schema:award   "Documentary (Short Subject)  ";   :film   "The Mark of the Maker   ";   :ceremony 64;   :year  1991.
+:OscarWinner155  schema:name   "Bill CouturiÃ© and Bernard Edelman, Producers  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Memorial: Letters from American Soldiers   ";   :ceremony 64;   :year  1991.
+:OscarWinner156  schema:name   "Gerry Hambling  ";   schema:award   "Film Editing  ";   :film   "The Commitments   ";   :ceremony 64;   :year  1991.
+:OscarWinner157  schema:name   "Joe Hutshing, Pietro Scalia  ";   schema:award   "Film Editing  ";   :film   "JFK   ";   :ceremony 64;   :year  1991.
+:OscarWinner158  schema:name   "Craig McKay  ";   schema:award   "Film Editing  ";   :film   "The Silence of the Lambs   ";   :ceremony 64;   :year  1991.
+:OscarWinner159  schema:name   "Conrad Buff, Mark Goldblatt, Richard A. Harris  ";   schema:award   "Film Editing  ";   :film   "Terminator 2: Judgment Day   ";   :ceremony 64;   :year  1991.
+:OscarWinner160  schema:name   "Thom Noble  ";   schema:award   "Film Editing  ";   :film   "Thelma & Louise   ";   :ceremony 64;   :year  1991.
+:OscarWinner161  schema:name   "Iceland  ";   schema:award   "Foreign Language Film  ";   :film   "Children of Nature   ";   :ceremony 64;   :year  1991.
+:OscarWinner162  schema:name   "Czechoslovakia  ";   schema:award   "Foreign Language Film  ";   :film   "The Elementary School   ";   :ceremony 64;   :year  1991.
+:OscarWinner163  schema:name   "Italy  ";   schema:award   "Foreign Language Film  ";   :film   "Mediterraneo   ";   :ceremony 64;   :year  1991.
+:OscarWinner164  schema:name   "Sweden  ";   schema:award   "Foreign Language Film  ";   :film   "The Ox   ";   :ceremony 64;   :year  1991.
+:OscarWinner165  schema:name   "Hong Kong  ";   schema:award   "Foreign Language Film  ";   :film   "Raise the Red Lantern   ";   :ceremony 64;   :year  1991.
+:OscarWinner166  schema:name   "Christina Smith, Monty Westmore, Greg Cannom  ";   schema:award   "Makeup  ";   :film   "Hook   ";   :ceremony 64;   :year  1991.
+:OscarWinner167  schema:name   "Michael Mills, Edward French, Richard Snell  ";   schema:award   "Makeup  ";   :film   "Star Trek VI The Undiscovered Country   ";   :ceremony 64;   :year  1991.
+:OscarWinner168  schema:name   "Stan Winston, Jeff Dawn  ";   schema:award   "Makeup  ";   :film   "Terminator 2: Judgment Day   ";   :ceremony 64;   :year  1991.
+:OscarWinner169  schema:name   "Alan Menken  ";   schema:award   "Music (Original Score)  ";   :film   "Beauty and the Beast   ";   :ceremony 64;   :year  1991.
+:OscarWinner170  schema:name   "Ennio Morricone  ";   schema:award   "Music (Original Score)  ";   :film   "Bugsy   ";   :ceremony 64;   :year  1991.
+:OscarWinner171  schema:name   "George Fenton  ";   schema:award   "Music (Original Score)  ";   :film   "The Fisher King   ";   :ceremony 64;   :year  1991.
+:OscarWinner172  schema:name   "John Williams  ";   schema:award   "Music (Original Score)  ";   :film   "JFK   ";   :ceremony 64;   :year  1991.
+:OscarWinner173  schema:name   "James Newton Howard  ";   schema:award   "Music (Original Score)  ";   :film   "The Prince of Tides   ";   :ceremony 64;   :year  1991.
+:OscarWinner174  schema:name   "Music by Alan Menken  ";   schema:award   "Music (Original Song)  ";   :film   ""Be Our Guest" from Beauty and the Beast  ";   :ceremony 64;   :year  1991.
+:OscarWinner175  schema:name   "Music by Alan Menken  ";   schema:award   "Music (Original Song)  ";   :film   ""Beauty And The Beast" from Beauty and the Beast  ";   :ceremony 64;   :year  1991.
+:OscarWinner176  schema:name   "Music by Alan Menken  ";   schema:award   "Music (Original Song)  ";   :film   ""Belle" from Beauty and the Beast  ";   :ceremony 64;   :year  1991.
+:OscarWinner177  schema:name   "Music by Michael Kamen  ";   schema:award   "Music (Original Song)  ";   :film   ""(Everything I Do) I Do It For You" from Robin Hood: Prince of Thieves  ";   :ceremony 64;   :year  1991.
+:OscarWinner178  schema:name   "Music by John Williams  ";   schema:award   "Music (Original Song)  ";   :film   ""When You're Alone" from Hook  ";   :ceremony 64;   :year  1991.
+:OscarWinner179  schema:name   "Don Hahn, Producer  ";   schema:award   "Best Picture  ";   :film   "Beauty and the Beast   ";   :ceremony 64;   :year  1991.
+:OscarWinner180  schema:name   "Mark Johnson, Barry Levinson and Warren Beatty, Producers  ";   schema:award   "Best Picture  ";   :film   "Bugsy   ";   :ceremony 64;   :year  1991.
+:OscarWinner181  schema:name   "A. Kitman Ho and Oliver Stone, Producers  ";   schema:award   "Best Picture  ";   :film   "JFK   ";   :ceremony 64;   :year  1991.
+:OscarWinner182  schema:name   "Barbra Streisand and Andrew Karsch, Producers  ";   schema:award   "Best Picture  ";   :film   "The Prince of Tides   ";   :ceremony 64;   :year  1991.
+:OscarWinner183  schema:name   "Edward Saxon, Kenneth Utt and Ron Bozman, Producers  ";   schema:award   "Best Picture  ";   :film   "The Silence of the Lambs   ";   :ceremony 64;   :year  1991.
+:OscarWinner184  schema:name   "Christopher Hinton  ";   schema:award   "Short Film (Animated)  ";   :film   "Blackfly   ";   :ceremony 64;   :year  1991.
+:OscarWinner185  schema:name   "Daniel Greaves  ";   schema:award   "Short Film (Animated)  ";   :film   "Manipulation   ";   :ceremony 64;   :year  1991.
+:OscarWinner186  schema:name   "Wendy Tilby  ";   schema:award   "Short Film (Animated)  ";   :film   "Strings   ";   :ceremony 64;   :year  1991.
+:OscarWinner187  schema:name   "Stephen Kessler, Thomas R. Conroy  ";   schema:award   "Short Film (Live Action)  ";   :film   "Birch Street Gym   ";   :ceremony 64;   :year  1991.
+:OscarWinner188  schema:name   "David M. Massey  ";   schema:award   "Short Film (Live Action)  ";   :film   "Last Breeze of Summer   ";   :ceremony 64;   :year  1991.
+:OscarWinner189  schema:name   "Seth Winston, Rob Fried  ";   schema:award   "Short Film (Live Action)  ";   :film   "Session Man   ";   :ceremony 64;   :year  1991.
+:OscarWinner190  schema:name   "Gary Summers, Randy Thom, Gary Rydstrom, Glenn Williams  ";   schema:award   "Sound  ";   :film   "Backdraft   ";   :ceremony 64;   :year  1991.
+:OscarWinner191  schema:name   "Terry Porter, Mel Metcalfe, David J. Hudson, Doc Kane  ";   schema:award   "Sound  ";   :film   "Beauty and the Beast   ";   :ceremony 64;   :year  1991.
+:OscarWinner192  schema:name   "Michael Minkler, Gregg Landaker, Tod A. Maitland  ";   schema:award   "Sound  ";   :film   "JFK   ";   :ceremony 64;   :year  1991.
+:OscarWinner193  schema:name   "Tom Fleischman, Christopher Newman  ";   schema:award   "Sound  ";   :film   "The Silence of the Lambs   ";   :ceremony 64;   :year  1991.
+:OscarWinner194  schema:name   "Tom Johnson, Gary Rydstrom, Gary Summers, Lee Orloff  ";   schema:award   "Sound  ";   :film   "Terminator 2: Judgment Day   ";   :ceremony 64;   :year  1991.
+:OscarWinner195  schema:name   "Gary Rydstrom, Richard Hymns  ";   schema:award   "Sound Effects Editing  ";   :film   "Backdraft   ";   :ceremony 64;   :year  1991.
+:OscarWinner196  schema:name   "George Watters II, F. Hudson Miller  ";   schema:award   "Sound Effects Editing  ";   :film   "Star Trek VI The Undiscovered Country   ";   :ceremony 64;   :year  1991.
+:OscarWinner197  schema:name   "Gary Rydstrom, Gloria S. Borders  ";   schema:award   "Sound Effects Editing  ";   :film   "Terminator 2: Judgment Day   ";   :ceremony 64;   :year  1991.
+:OscarWinner198  schema:name   "Mikael Salomon, Allen Hall, Clay Pinney, Scott Farrar  ";   schema:award   "Visual Effects  ";   :film   "Backdraft   ";   :ceremony 64;   :year  1991.
+:OscarWinner199  schema:name   "Eric Brevig, Harley Jessup, Mark Sullivan, Michael Lantieri  ";   schema:award   "Visual Effects  ";   :film   "Hook   ";   :ceremony 64;   :year  1991.
+:OscarWinner200  schema:name   "Dennis Muren, Stan Winston, Gene Warren, Jr., Robert Skotak  ";   schema:award   "Visual Effects  ";   :film   "Terminator 2: Judgment Day   ";   :ceremony 64;   :year  1991.
+:OscarWinner201  schema:name   "Agnieszka Holland  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "Europa Europa   ";   :ceremony 64;   :year  1991.
+:OscarWinner202  schema:name   "Fannie Flagg, Carol Sobieski  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "Fried Green Tomatoes   ";   :ceremony 64;   :year  1991.
+:OscarWinner203  schema:name   "Oliver Stone, Zachary Sklar  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "JFK   ";   :ceremony 64;   :year  1991.
+:OscarWinner204  schema:name   "Pat Conroy, Becky Johnston  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "The Prince of Tides   ";   :ceremony 64;   :year  1991.
+:OscarWinner205  schema:name   "Ted Tally  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "The Silence of the Lambs   ";   :ceremony 64;   :year  1991.
+:OscarWinner206  schema:name   "John Singleton  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Boyz N the Hood   ";   :ceremony 64;   :year  1991.
+:OscarWinner207  schema:name   "James Toback  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Bugsy   ";   :ceremony 64;   :year  1991.
+:OscarWinner208  schema:name   "Richard LaGravenese  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "The Fisher King   ";   :ceremony 64;   :year  1991.
+:OscarWinner209  schema:name   "Lawrence Kasdan, Meg Kasdan  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Grand Canyon   ";   :ceremony 64;   :year  1991.
+:OscarWinner210  schema:name   "Callie Khouri  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Thelma & Louise   ";   :ceremony 64;   :year  1991.
+:OscarWinner211  schema:name   "Chaplin  ";   schema:award   "Actor in a Leading Role  ";   :film   "Robert Downey Jr.  ";   :ceremony 65;   :year  1992.
+:OscarWinner212  schema:name   "Unforgiven  ";   schema:award   "Actor in a Leading Role  ";   :film   "Clint Eastwood  ";   :ceremony 65;   :year  1992.
+:OscarWinner213  schema:name   "Scent of a Woman  ";   schema:award   "Actor in a Leading Role  ";   :film   "Al Pacino  ";   :ceremony 65;   :year  1992.
+:OscarWinner214  schema:name   "The Crying Game  ";   schema:award   "Actor in a Leading Role  ";   :film   "Stephen Rea  ";   :ceremony 65;   :year  1992.
+:OscarWinner215  schema:name   "Malcolm X  ";   schema:award   "Actor in a Leading Role  ";   :film   "Denzel Washington  ";   :ceremony 65;   :year  1992.
+:OscarWinner216  schema:name   "The Crying Game  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Jaye Davidson  ";   :ceremony 65;   :year  1992.
+:OscarWinner217  schema:name   "Unforgiven  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Gene Hackman  ";   :ceremony 65;   :year  1992.
+:OscarWinner218  schema:name   "A Few Good Men  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Jack Nicholson  ";   :ceremony 65;   :year  1992.
+:OscarWinner219  schema:name   "Glengarry Glen Ross  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Al Pacino  ";   :ceremony 65;   :year  1992.
+:OscarWinner220  schema:name   "Mr. Saturday Night  ";   schema:award   "Actor in a Supporting Role  ";   :film   "David Paymer  ";   :ceremony 65;   :year  1992.
+:OscarWinner221  schema:name   "Indochine  ";   schema:award   "Actress in a Leading Role  ";   :film   "Catherine Deneuve  ";   :ceremony 65;   :year  1992.
+:OscarWinner222  schema:name   "Passion Fish  ";   schema:award   "Actress in a Leading Role  ";   :film   "Mary McDonnell  ";   :ceremony 65;   :year  1992.
+:OscarWinner223  schema:name   "Love Field  ";   schema:award   "Actress in a Leading Role  ";   :film   "Michelle Pfeiffer  ";   :ceremony 65;   :year  1992.
+:OscarWinner224  schema:name   "Lorenzo's Oil  ";   schema:award   "Actress in a Leading Role  ";   :film   "Susan Sarandon  ";   :ceremony 65;   :year  1992.
+:OscarWinner225  schema:name   "Howards End  ";   schema:award   "Actress in a Leading Role  ";   :film   "Emma Thompson  ";   :ceremony 65;   :year  1992.
+:OscarWinner226  schema:name   "Husbands and Wives  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Judy Davis  ";   :ceremony 65;   :year  1992.
+:OscarWinner227  schema:name   "Enchanted April  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Joan Plowright  ";   :ceremony 65;   :year  1992.
+:OscarWinner228  schema:name   "Howards End  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Vanessa Redgrave  ";   :ceremony 65;   :year  1992.
+:OscarWinner229  schema:name   "Damage  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Miranda Richardson  ";   :ceremony 65;   :year  1992.
+:OscarWinner230  schema:name   "My Cousin Vinny  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Marisa Tomei  ";   :ceremony 65;   :year  1992.
+:OscarWinner231  schema:name   "Art Direction: Thomas Sanders  ";   schema:award   "Art Direction  ";   :film   "Bram Stoker's Dracula   ";   :ceremony 65;   :year  1992.
+:OscarWinner232  schema:name   "Art Direction: Stuart Craig  ";   schema:award   "Art Direction  ";   :film   "Chaplin   ";   :ceremony 65;   :year  1992.
+:OscarWinner233  schema:name   "Art Direction: Luciana Arrighi  ";   schema:award   "Art Direction  ";   :film   "Howards End   ";   :ceremony 65;   :year  1992.
+:OscarWinner234  schema:name   "Art Direction: Ferdinando Scarfiotti  ";   schema:award   "Art Direction  ";   :film   "Toys   ";   :ceremony 65;   :year  1992.
+:OscarWinner235  schema:name   "Art Direction: Henry Bumstead  ";   schema:award   "Art Direction  ";   :film   "Unforgiven   ";   :ceremony 65;   :year  1992.
+:OscarWinner236  schema:name   "Stephen H. Burum  ";   schema:award   "Cinematography  ";   :film   "Hoffa   ";   :ceremony 65;   :year  1992.
+:OscarWinner237  schema:name   "Tony Pierce-Roberts  ";   schema:award   "Cinematography  ";   :film   "Howards End   ";   :ceremony 65;   :year  1992.
+:OscarWinner238  schema:name   "Robert Fraisse  ";   schema:award   "Cinematography  ";   :film   "The Lover   ";   :ceremony 65;   :year  1992.
+:OscarWinner239  schema:name   "Philippe Rousselot  ";   schema:award   "Cinematography  ";   :film   "A River Runs through It   ";   :ceremony 65;   :year  1992.
+:OscarWinner240  schema:name   "Jack N. Green  ";   schema:award   "Cinematography  ";   :film   "Unforgiven   ";   :ceremony 65;   :year  1992.
+:OscarWinner241  schema:name   "Eiko Ishioka  ";   schema:award   "Costume Design  ";   :film   "Bram Stoker's Dracula   ";   :ceremony 65;   :year  1992.
+:OscarWinner242  schema:name   "Sheena Napier  ";   schema:award   "Costume Design  ";   :film   "Enchanted April   ";   :ceremony 65;   :year  1992.
+:OscarWinner243  schema:name   "Jenny Beavan, John Bright  ";   schema:award   "Costume Design  ";   :film   "Howards End   ";   :ceremony 65;   :year  1992.
+:OscarWinner244  schema:name   "Ruth Carter  ";   schema:award   "Costume Design  ";   :film   "Malcolm X   ";   :ceremony 65;   :year  1992.
+:OscarWinner245  schema:name   "Albert Wolsky  ";   schema:award   "Costume Design  ";   :film   "Toys   ";   :ceremony 65;   :year  1992.
+:OscarWinner246  schema:name   "Neil Jordan  ";   schema:award   "Directing  ";   :film   "The Crying Game   ";   :ceremony 65;   :year  1992.
+:OscarWinner247  schema:name   "James Ivory  ";   schema:award   "Directing  ";   :film   "Howards End   ";   :ceremony 65;   :year  1992.
+:OscarWinner248  schema:name   "Robert Altman  ";   schema:award   "Directing  ";   :film   "The Player   ";   :ceremony 65;   :year  1992.
+:OscarWinner249  schema:name   "Martin Brest  ";   schema:award   "Directing  ";   :film   "Scent of a Woman   ";   :ceremony 65;   :year  1992.
+:OscarWinner250  schema:name   "Clint Eastwood  ";   schema:award   "Directing  ";   :film   "Unforgiven   ";   :ceremony 65;   :year  1992.
+:OscarWinner251  schema:name   "David Haugland, Producer  ";   schema:award   "Documentary (Feature)  ";   :film   "Changing Our Minds: The Story of Dr. Evelyn Hooker   ";   :ceremony 65;   :year  1992.
+:OscarWinner252  schema:name   "Sally Dundas, Producer  ";   schema:award   "Documentary (Feature)  ";   :film   "Fires of Kuwait   ";   :ceremony 65;   :year  1992.
+:OscarWinner253  schema:name   "William Miles and Nina Rosenblum, Producers  ";   schema:award   "Documentary (Feature)  ";   :film   "Liberators: Fighting on Two Fronts in World War II   ";   :ceremony 65;   :year  1992.
+:OscarWinner254  schema:name   "Margaret Smilow and Roma Baran, Producers  ";   schema:award   "Documentary (Feature)  ";   :film   "Music for the Movies: Bernard Herrmann   ";   :ceremony 65;   :year  1992.
+:OscarWinner255  schema:name   "Barbara Trent and David Kasper, Producers  ";   schema:award   "Documentary (Feature)  ";   :film   "The Panama Deception   ";   :ceremony 65;   :year  1992.
+:OscarWinner256  schema:name   "Geoffrey O'Connor, Producer  ";   schema:award   "Documentary (Short Subject)  ";   :film   "At the Edge of Conquest: The Journey of Chief Wai-Wai   ";   :ceremony 65;   :year  1992.
+:OscarWinner257  schema:name   "Wendy L. Weinberg, Producer  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Beyond Imagining: Margaret Anderson and the 'Little Review'   ";   :ceremony 65;   :year  1992.
+:OscarWinner258  schema:name   "Richard Elson and Sally Bochner, Producers  ";   schema:award   "Documentary (Short Subject)  ";   :film   "The Colours of My Father: A Portrait of Sam Borenstein   ";   :ceremony 65;   :year  1992.
+:OscarWinner259  schema:name   "Thomas C. Goodwin and Gerardine Wurzburg, Producers  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Educating Peter   ";   :ceremony 65;   :year  1992.
+:OscarWinner260  schema:name   "Dorothy Fadiman, Producer  ";   schema:award   "Documentary (Short Subject)  ";   :film   "When Abortion Was Illegal: Untold Stories   ";   :ceremony 65;   :year  1992.
+:OscarWinner261  schema:name   "Frank J. Urioste  ";   schema:award   "Film Editing  ";   :film   "Basic Instinct   ";   :ceremony 65;   :year  1992.
+:OscarWinner262  schema:name   "Kant Pan  ";   schema:award   "Film Editing  ";   :film   "The Crying Game   ";   :ceremony 65;   :year  1992.
+:OscarWinner263  schema:name   "Robert Leighton  ";   schema:award   "Film Editing  ";   :film   "A Few Good Men   ";   :ceremony 65;   :year  1992.
+:OscarWinner264  schema:name   "Geraldine Peroni  ";   schema:award   "Film Editing  ";   :film   "The Player   ";   :ceremony 65;   :year  1992.
+:OscarWinner265  schema:name   "Joel Cox  ";   schema:award   "Film Editing  ";   :film   "Unforgiven   ";   :ceremony 65;   :year  1992.
+:OscarWinner266  schema:name   "Russia  ";   schema:award   "Foreign Language Film  ";   :film   "Close to Eden   ";   :ceremony 65;   :year  1992.
+:OscarWinner267  schema:name   "Belgium  ";   schema:award   "Foreign Language Film  ";   :film   "Daens   ";   :ceremony 65;   :year  1992.
+:OscarWinner268  schema:name   "France  ";   schema:award   "Foreign Language Film  ";   :film   "Indochine   ";   :ceremony 65;   :year  1992.
+:OscarWinner269  schema:name   "Uruguay  ";   schema:award   "Foreign Language Film  ";   :film   "A Place in the World   ";   :ceremony 65;   :year  1992.
+:OscarWinner270  schema:name   "Germany  ";   schema:award   "Foreign Language Film  ";   :film   "Schtonk!   ";   :ceremony 65;   :year  1992.
+:OscarWinner271  schema:name   "Ve Neill, Ronnie Specter, Stan Winston  ";   schema:award   "Makeup  ";   :film   "Batman Returns   ";   :ceremony 65;   :year  1992.
+:OscarWinner272  schema:name   "Greg Cannom, MichÃ¨le Burke, Matthew W. Mungle  ";   schema:award   "Makeup  ";   :film   "Bram Stoker's Dracula   ";   :ceremony 65;   :year  1992.
+:OscarWinner273  schema:name   "Ve Neill, Greg Cannom, John Blake  ";   schema:award   "Makeup  ";   :film   "Hoffa   ";   :ceremony 65;   :year  1992.
+:OscarWinner274  schema:name   "Alan Menken  ";   schema:award   "Music (Original Score)  ";   :film   "Aladdin   ";   :ceremony 65;   :year  1992.
+:OscarWinner275  schema:name   "Jerry Goldsmith  ";   schema:award   "Music (Original Score)  ";   :film   "Basic Instinct   ";   :ceremony 65;   :year  1992.
+:OscarWinner276  schema:name   "John Barry  ";   schema:award   "Music (Original Score)  ";   :film   "Chaplin   ";   :ceremony 65;   :year  1992.
+:OscarWinner277  schema:name   "Richard Robbins  ";   schema:award   "Music (Original Score)  ";   :film   "Howards End   ";   :ceremony 65;   :year  1992.
+:OscarWinner278  schema:name   "Mark Isham  ";   schema:award   "Music (Original Score)  ";   :film   "A River Runs through It   ";   :ceremony 65;   :year  1992.
+:OscarWinner279  schema:name   "Music by Robert Kraft  ";   schema:award   "Music (Original Song)  ";   :film   ""Beautiful Maria Of My Soul" from The Mambo Kings  ";   :ceremony 65;   :year  1992.
+:OscarWinner280  schema:name   "Music by Alan Menken  ";   schema:award   "Music (Original Song)  ";   :film   ""Friend Like Me" from Aladdin  ";   :ceremony 65;   :year  1992.
+:OscarWinner281  schema:name   "Music by David Foster  ";   schema:award   "Music (Original Song)  ";   :film   ""I Have Nothing" from The Bodyguard  ";   :ceremony 65;   :year  1992.
+:OscarWinner282  schema:name   "Music by Jud Friedman  ";   schema:award   "Music (Original Song)  ";   :film   ""Run To You" from The Bodyguard  ";   :ceremony 65;   :year  1992.
+:OscarWinner283  schema:name   "Music by Alan Menken  ";   schema:award   "Music (Original Song)  ";   :film   ""A Whole New World" from Aladdin  ";   :ceremony 65;   :year  1992.
+:OscarWinner284  schema:name   "Stephen Woolley, Producer  ";   schema:award   "Best Picture  ";   :film   "The Crying Game   ";   :ceremony 65;   :year  1992.
+:OscarWinner285  schema:name   "David Brown, Rob Reiner and Andrew Scheinman, Producers  ";   schema:award   "Best Picture  ";   :film   "A Few Good Men   ";   :ceremony 65;   :year  1992.
+:OscarWinner286  schema:name   "Ismail Merchant, Producer  ";   schema:award   "Best Picture  ";   :film   "Howards End   ";   :ceremony 65;   :year  1992.
+:OscarWinner287  schema:name   "Martin Brest, Producer  ";   schema:award   "Best Picture  ";   :film   "Scent of a Woman   ";   :ceremony 65;   :year  1992.
+:OscarWinner288  schema:name   "Clint Eastwood, Producer  ";   schema:award   "Best Picture  ";   :film   "Unforgiven   ";   :ceremony 65;   :year  1992.
+:OscarWinner289  schema:name   "Peter Lord  ";   schema:award   "Short Film (Animated)  ";   :film   "Adam   ";   :ceremony 65;   :year  1992.
+:OscarWinner290  schema:name   "Joan C. Gratz  ";   schema:award   "Short Film (Animated)  ";   :film   "Mona Lisa Descending a Staircase   ";   :ceremony 65;   :year  1992.
+:OscarWinner291  schema:name   "Michaela PavlÃ¡tovÃ¡  ";   schema:award   "Short Film (Animated)  ";   :film   "Reci, Reci, Reci... (Words, Words, Words)   ";   :ceremony 65;   :year  1992.
+:OscarWinner292  schema:name   "Paul Berry  ";   schema:award   "Short Film (Animated)  ";   :film   "The Sandman   ";   :ceremony 65;   :year  1992.
+:OscarWinner293  schema:name   "Barry J.C. Purves  ";   schema:award   "Short Film (Animated)  ";   :film   "Screen Play   ";   :ceremony 65;   :year  1992.
+:OscarWinner294  schema:name   "Jonathan Darby, Jana Sue Memel  ";   schema:award   "Short Film (Live Action)  ";   :film   "Contact   ";   :ceremony 65;   :year  1992.
+:OscarWinner295  schema:name   "Matt Palmieri  ";   schema:award   "Short Film (Live Action)  ";   :film   "Cruise Control   ";   :ceremony 65;   :year  1992.
+:OscarWinner296  schema:name   "Christian M. Taylor  ";   schema:award   "Short Film (Live Action)  ";   :film   "The Lady in Waiting   ";   :ceremony 65;   :year  1992.
+:OscarWinner297  schema:name   "Sam Karmann  ";   schema:award   "Short Film (Live Action)  ";   :film   "Omnibus   ";   :ceremony 65;   :year  1992.
+:OscarWinner298  schema:name   "Kenneth Branagh, David Parfitt  ";   schema:award   "Short Film (Live Action)  ";   :film   "Swan Song   ";   :ceremony 65;   :year  1992.
+:OscarWinner299  schema:name   "Terry Porter, Mel Metcalfe, David J. Hudson, Doc Kane  ";   schema:award   "Sound  ";   :film   "Aladdin   ";   :ceremony 65;   :year  1992.
+:OscarWinner300  schema:name   "Kevin O'Connell, Rick Kline, Bob Eber  ";   schema:award   "Sound  ";   :film   "A Few Good Men   ";   :ceremony 65;   :year  1992.
+:OscarWinner301  schema:name   "Chris Jenkins, Doug Hemphill, Mark Smith, Simon Kaye  ";   schema:award   "Sound  ";   :film   "The Last of the Mohicans   ";   :ceremony 65;   :year  1992.
+:OscarWinner302  schema:name   "Don Mitchell, Frank A. MontaÃ±o, Rick Hart, Scott Smith  ";   schema:award   "Sound  ";   :film   "Under Siege   ";   :ceremony 65;   :year  1992.
+:OscarWinner303  schema:name   "Les Fresholtz, Vern Poore, Dick Alexander, Rob Young  ";   schema:award   "Sound  ";   :film   "Unforgiven   ";   :ceremony 65;   :year  1992.
+:OscarWinner304  schema:name   "Mark Mangini  ";   schema:award   "Sound Effects Editing  ";   :film   "Aladdin   ";   :ceremony 65;   :year  1992.
+:OscarWinner305  schema:name   "Tom C. McCarthy, David E. Stone  ";   schema:award   "Sound Effects Editing  ";   :film   "Bram Stoker's Dracula   ";   :ceremony 65;   :year  1992.
+:OscarWinner306  schema:name   "John Leveque, Bruce Stambler  ";   schema:award   "Sound Effects Editing  ";   :film   "Under Siege   ";   :ceremony 65;   :year  1992.
+:OscarWinner307  schema:name   "Richard Edlund, Alec Gillis, Tom Woodruff, Jr., George Gibbs  ";   schema:award   "Visual Effects  ";   :film   "Alien 3   ";   :ceremony 65;   :year  1992.
+:OscarWinner308  schema:name   "Michael Fink, Craig Barron, John Bruno, Dennis Skotak  ";   schema:award   "Visual Effects  ";   :film   "Batman Returns   ";   :ceremony 65;   :year  1992.
+:OscarWinner309  schema:name   "Ken Ralston, Doug Chiang, Doug Smythe, Tom Woodruff, Jr.  ";   schema:award   "Visual Effects  ";   :film   "Death Becomes Her   ";   :ceremony 65;   :year  1992.
+:OscarWinner310  schema:name   "Peter Barnes  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "Enchanted April   ";   :ceremony 65;   :year  1992.
+:OscarWinner311  schema:name   "Ruth Prawer Jhabvala  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "Howards End   ";   :ceremony 65;   :year  1992.
+:OscarWinner312  schema:name   "Michael Tolkin  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "The Player   ";   :ceremony 65;   :year  1992.
+:OscarWinner313  schema:name   "Richard Friedenberg  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "A River Runs through It   ";   :ceremony 65;   :year  1992.
+:OscarWinner314  schema:name   "Bo Goldman  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "Scent of a Woman   ";   :ceremony 65;   :year  1992.
+:OscarWinner315  schema:name   "Neil Jordan  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "The Crying Game   ";   :ceremony 65;   :year  1992.
+:OscarWinner316  schema:name   "Woody Allen  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Husbands and Wives   ";   :ceremony 65;   :year  1992.
+:OscarWinner317  schema:name   "George Miller, Nick Enright  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Lorenzo's Oil   ";   :ceremony 65;   :year  1992.
+:OscarWinner318  schema:name   "John Sayles  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Passion Fish   ";   :ceremony 65;   :year  1992.
+:OscarWinner319  schema:name   "David Webb Peoples  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Unforgiven   ";   :ceremony 65;   :year  1992.
+:OscarWinner320  schema:name   "In the Name of the Father  ";   schema:award   "Actor in a Leading Role  ";   :film   "Daniel Day-Lewis  ";   :ceremony 66;   :year  1993.
+:OscarWinner321  schema:name   "What's Love Got to Do with It  ";   schema:award   "Actor in a Leading Role  ";   :film   "Laurence Fishburne  ";   :ceremony 66;   :year  1993.
+:OscarWinner322  schema:name   "Philadelphia  ";   schema:award   "Actor in a Leading Role  ";   :film   "Tom Hanks  ";   :ceremony 66;   :year  1993.
+:OscarWinner323  schema:name   "The Remains of the Day  ";   schema:award   "Actor in a Leading Role  ";   :film   "Anthony Hopkins  ";   :ceremony 66;   :year  1993.
+:OscarWinner324  schema:name   "Schindler's List  ";   schema:award   "Actor in a Leading Role  ";   :film   "Liam Neeson  ";   :ceremony 66;   :year  1993.
+:OscarWinner325  schema:name   "What's Eating Gilbert Grape  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Leonardo DiCaprio  ";   :ceremony 66;   :year  1993.
+:OscarWinner326  schema:name   "Schindler's List  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Ralph Fiennes  ";   :ceremony 66;   :year  1993.
+:OscarWinner327  schema:name   "The Fugitive  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Tommy Lee Jones  ";   :ceremony 66;   :year  1993.
+:OscarWinner328  schema:name   "In the Line of Fire  ";   schema:award   "Actor in a Supporting Role  ";   :film   "John Malkovich  ";   :ceremony 66;   :year  1993.
+:OscarWinner329  schema:name   "In the Name of the Father  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Pete Postlethwaite  ";   :ceremony 66;   :year  1993.
+:OscarWinner330  schema:name   "What's Love Got to Do with It  ";   schema:award   "Actress in a Leading Role  ";   :film   "Angela Bassett  ";   :ceremony 66;   :year  1993.
+:OscarWinner331  schema:name   "Six Degrees of Separation  ";   schema:award   "Actress in a Leading Role  ";   :film   "Stockard Channing  ";   :ceremony 66;   :year  1993.
+:OscarWinner332  schema:name   "The Piano  ";   schema:award   "Actress in a Leading Role  ";   :film   "Holly Hunter  ";   :ceremony 66;   :year  1993.
+:OscarWinner333  schema:name   "The Remains of the Day  ";   schema:award   "Actress in a Leading Role  ";   :film   "Emma Thompson  ";   :ceremony 66;   :year  1993.
+:OscarWinner334  schema:name   "Shadowlands  ";   schema:award   "Actress in a Leading Role  ";   :film   "Debra Winger  ";   :ceremony 66;   :year  1993.
+:OscarWinner335  schema:name   "The Firm  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Holly Hunter  ";   :ceremony 66;   :year  1993.
+:OscarWinner336  schema:name   "The Piano  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Anna Paquin  ";   :ceremony 66;   :year  1993.
+:OscarWinner337  schema:name   "Fearless  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Rosie Perez  ";   :ceremony 66;   :year  1993.
+:OscarWinner338  schema:name   "The Age of Innocence  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Winona Ryder  ";   :ceremony 66;   :year  1993.
+:OscarWinner339  schema:name   "In the Name of the Father  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Emma Thompson  ";   :ceremony 66;   :year  1993.
+:OscarWinner340  schema:name   "Art Direction: Ken Adam  ";   schema:award   "Art Direction  ";   :film   "Addams Family Values   ";   :ceremony 66;   :year  1993.
+:OscarWinner341  schema:name   "Art Direction: Dante Ferretti  ";   schema:award   "Art Direction  ";   :film   "The Age of Innocence   ";   :ceremony 66;   :year  1993.
+:OscarWinner342  schema:name   "Art Direction: Ben Van Os, Jan Roelfs  ";   schema:award   "Art Direction  ";   :film   "Orlando   ";   :ceremony 66;   :year  1993.
+:OscarWinner343  schema:name   "Art Direction: Luciana Arrighi  ";   schema:award   "Art Direction  ";   :film   "The Remains of the Day   ";   :ceremony 66;   :year  1993.
+:OscarWinner344  schema:name   "Art Direction: Allan Starski  ";   schema:award   "Art Direction  ";   :film   "Schindler's List   ";   :ceremony 66;   :year  1993.
+:OscarWinner345  schema:name   "Gu Changwei  ";   schema:award   "Cinematography  ";   :film   "Farewell My Concubine   ";   :ceremony 66;   :year  1993.
+:OscarWinner346  schema:name   "Michael Chapman  ";   schema:award   "Cinematography  ";   :film   "The Fugitive   ";   :ceremony 66;   :year  1993.
+:OscarWinner347  schema:name   "Stuart Dryburgh  ";   schema:award   "Cinematography  ";   :film   "The Piano   ";   :ceremony 66;   :year  1993.
+:OscarWinner348  schema:name   "Janusz Kaminski  ";   schema:award   "Cinematography  ";   :film   "Schindler's List   ";   :ceremony 66;   :year  1993.
+:OscarWinner349  schema:name   "Conrad L. Hall  ";   schema:award   "Cinematography  ";   :film   "Searching for Bobby Fischer   ";   :ceremony 66;   :year  1993.
+:OscarWinner350  schema:name   "Gabriella Pescucci  ";   schema:award   "Costume Design  ";   :film   "The Age of Innocence   ";   :ceremony 66;   :year  1993.
+:OscarWinner351  schema:name   "Sandy Powell  ";   schema:award   "Costume Design  ";   :film   "Orlando   ";   :ceremony 66;   :year  1993.
+:OscarWinner352  schema:name   "Janet Patterson  ";   schema:award   "Costume Design  ";   :film   "The Piano   ";   :ceremony 66;   :year  1993.
+:OscarWinner353  schema:name   "Jenny Beavan, John Bright  ";   schema:award   "Costume Design  ";   :film   "The Remains of the Day   ";   :ceremony 66;   :year  1993.
+:OscarWinner354  schema:name   "Anna Biedrzycka-Sheppard  ";   schema:award   "Costume Design  ";   :film   "Schindler's List   ";   :ceremony 66;   :year  1993.
+:OscarWinner355  schema:name   "Jim Sheridan  ";   schema:award   "Directing  ";   :film   "In the Name of the Father   ";   :ceremony 66;   :year  1993.
+:OscarWinner356  schema:name   "Jane Campion  ";   schema:award   "Directing  ";   :film   "The Piano   ";   :ceremony 66;   :year  1993.
+:OscarWinner357  schema:name   "James Ivory  ";   schema:award   "Directing  ";   :film   "The Remains of the Day   ";   :ceremony 66;   :year  1993.
+:OscarWinner358  schema:name   "Steven Spielberg  ";   schema:award   "Directing  ";   :film   "Schindler's List   ";   :ceremony 66;   :year  1993.
+:OscarWinner359  schema:name   "Robert Altman  ";   schema:award   "Directing  ";   :film   "Short Cuts   ";   :ceremony 66;   :year  1993.
+:OscarWinner360  schema:name   "David Paperny, Arthur Ginsberg  ";   schema:award   "Documentary (Feature)  ";   :film   "The Broadcast Tapes of Dr. Peter   ";   :ceremony 66;   :year  1993.
+:OscarWinner361  schema:name   "Susan Todd, Andrew Young  ";   schema:award   "Documentary (Feature)  ";   :film   "Children of Fate   ";   :ceremony 66;   :year  1993.
+:OscarWinner362  schema:name   "David Collier, Betsy Thompson  ";   schema:award   "Documentary (Feature)  ";   :film   "For Better or for Worse   ";   :ceremony 66;   :year  1993.
+:OscarWinner363  schema:name   "Susan Raymond, Alan Raymond  ";   schema:award   "Documentary (Feature)  ";   :film   "I Am a Promise: The Children of Stanton Elementary School   ";   :ceremony 66;   :year  1993.
+:OscarWinner364  schema:name   "D.A. Pennebaker, Chris Hegedus  ";   schema:award   "Documentary (Feature)  ";   :film   "The War Room   ";   :ceremony 66;   :year  1993.
+:OscarWinner365  schema:name   "Steven Cantor, Peter Spirer  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Blood Ties: The Life and Work of Sally Mann   ";   :ceremony 66;   :year  1993.
+:OscarWinner366  schema:name   "Elaine Holliman, Jason Schneider  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Chicks in White Satin   ";   :ceremony 66;   :year  1993.
+:OscarWinner367  schema:name   "Margaret Lazarus, Renner Wunderlich  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Defending Our Lives   ";   :ceremony 66;   :year  1993.
+:OscarWinner368  schema:name   "Dennis Virkler, David Finfer, Dean Goodhill, Don Brochu, Richard Nord, Dov Hoenig  ";   schema:award   "Film Editing  ";   :film   "The Fugitive   ";   :ceremony 66;   :year  1993.
+:OscarWinner369  schema:name   "Anne V. Coates  ";   schema:award   "Film Editing  ";   :film   "In the Line of Fire   ";   :ceremony 66;   :year  1993.
+:OscarWinner370  schema:name   "Gerry Hambling  ";   schema:award   "Film Editing  ";   :film   "In the Name of the Father   ";   :ceremony 66;   :year  1993.
+:OscarWinner371  schema:name   "Veronika Jenet  ";   schema:award   "Film Editing  ";   :film   "The Piano   ";   :ceremony 66;   :year  1993.
+:OscarWinner372  schema:name   "Michael Kahn  ";   schema:award   "Film Editing  ";   :film   "Schindler's List   ";   :ceremony 66;   :year  1993.
+:OscarWinner373  schema:name   "Spain  ";   schema:award   "Foreign Language Film  ";   :film   "Belle Epoque   ";   :ceremony 66;   :year  1993.
+:OscarWinner374  schema:name   "Hong Kong  ";   schema:award   "Foreign Language Film  ";   :film   "Farewell My Concubine   ";   :ceremony 66;   :year  1993.
+:OscarWinner375  schema:name   "United Kingdom  ";   schema:award   "Foreign Language Film  ";   :film   "Hedd Wyn   ";   :ceremony 66;   :year  1993.
+:OscarWinner376  schema:name   "Vietnam  ";   schema:award   "Foreign Language Film  ";   :film   "The Scent of Green Papaya   ";   :ceremony 66;   :year  1993.
+:OscarWinner377  schema:name   "Taiwan  ";   schema:award   "Foreign Language Film  ";   :film   "The Wedding Banquet   ";   :ceremony 66;   :year  1993.
+:OscarWinner378  schema:name   "Greg Cannom, Ve Neill, Yolanda Toussieng  ";   schema:award   "Makeup  ";   :film   "Mrs. Doubtfire   ";   :ceremony 66;   :year  1993.
+:OscarWinner379  schema:name   "Carl Fullerton, Alan D'Angerio  ";   schema:award   "Makeup  ";   :film   "Philadelphia   ";   :ceremony 66;   :year  1993.
+:OscarWinner380  schema:name   "Christina Smith, Matthew Mungle, Judy Alexander Cory  ";   schema:award   "Makeup  ";   :film   "Schindler's List   ";   :ceremony 66;   :year  1993.
+:OscarWinner381  schema:name   "Elmer Bernstein  ";   schema:award   "Music (Original Score)  ";   :film   "The Age of Innocence   ";   :ceremony 66;   :year  1993.
+:OscarWinner382  schema:name   "Dave Grusin  ";   schema:award   "Music (Original Score)  ";   :film   "The Firm   ";   :ceremony 66;   :year  1993.
+:OscarWinner383  schema:name   "James Newton Howard  ";   schema:award   "Music (Original Score)  ";   :film   "The Fugitive   ";   :ceremony 66;   :year  1993.
+:OscarWinner384  schema:name   "Richard Robbins  ";   schema:award   "Music (Original Score)  ";   :film   "The Remains of the Day   ";   :ceremony 66;   :year  1993.
+:OscarWinner385  schema:name   "John Williams  ";   schema:award   "Music (Original Score)  ";   :film   "Schindler's List   ";   :ceremony 66;   :year  1993.
+:OscarWinner386  schema:name   "Music and Lyric by Janet Jackson, James Harris III and Terry Lewis  ";   schema:award   "Music (Original Song)  ";   :film   ""Again" from Poetic Justice  ";   :ceremony 66;   :year  1993.
+:OscarWinner387  schema:name   "Music and Lyric by Carole Bayer Sager, James Ingram and Clif Magness  ";   schema:award   "Music (Original Song)  ";   :film   ""The Day I Fall In Love" from Beethoven's 2nd  ";   :ceremony 66;   :year  1993.
+:OscarWinner388  schema:name   "Music and Lyric by Neil Young  ";   schema:award   "Music (Original Song)  ";   :film   ""Philadelphia" from Philadelphia  ";   :ceremony 66;   :year  1993.
+:OscarWinner389  schema:name   "Music and Lyric by Bruce Springsteen  ";   schema:award   "Music (Original Song)  ";   :film   ""Streets Of Philadelphia" from Philadelphia  ";   :ceremony 66;   :year  1993.
+:OscarWinner390  schema:name   "Music by Marc Shaiman  ";   schema:award   "Music (Original Song)  ";   :film   ""A Wink And A Smile" from Sleepless in Seattle  ";   :ceremony 66;   :year  1993.
+:OscarWinner391  schema:name   "Arnold Kopelson, Producer  ";   schema:award   "Best Picture  ";   :film   "The Fugitive   ";   :ceremony 66;   :year  1993.
+:OscarWinner392  schema:name   "Jim Sheridan, Producer  ";   schema:award   "Best Picture  ";   :film   "In the Name of the Father   ";   :ceremony 66;   :year  1993.
+:OscarWinner393  schema:name   "Jan Chapman, Producer  ";   schema:award   "Best Picture  ";   :film   "The Piano   ";   :ceremony 66;   :year  1993.
+:OscarWinner394  schema:name   "Mike Nichols, John Calley and Ismail Merchant, Producers  ";   schema:award   "Best Picture  ";   :film   "The Remains of the Day   ";   :ceremony 66;   :year  1993.
+:OscarWinner395  schema:name   "Steven Spielberg, Gerald R. Molen and Branko Lustig, Producers  ";   schema:award   "Best Picture  ";   :film   "Schindler's List   ";   :ceremony 66;   :year  1993.
+:OscarWinner396  schema:name   "Stephen Palmer  ";   schema:award   "Short Film (Animated)  ";   :film   "Blindscape   ";   :ceremony 66;   :year  1993.
+:OscarWinner397  schema:name   "FrÃ©dÃ©ric Back, Hubert Tison  ";   schema:award   "Short Film (Animated)  ";   :film   "The Mighty River   ";   :ceremony 66;   :year  1993.
+:OscarWinner398  schema:name   "Bob Godfrey, Kevin Baldwin  ";   schema:award   "Short Film (Animated)  ";   :film   "Small Talk   ";   :ceremony 66;   :year  1993.
+:OscarWinner399  schema:name   "Mark Baker  ";   schema:award   "Short Film (Animated)  ";   :film   "The Village   ";   :ceremony 66;   :year  1993.
+:OscarWinner400  schema:name   "Nick Park  ";   schema:award   "Short Film (Animated)  ";   :film   "The Wrong Trousers   ";   :ceremony 66;   :year  1993.
+:OscarWinner401  schema:name   "Pepe Danquart  ";   schema:award   "Short Film (Live Action)  ";   :film   "Black Rider (Schwarzfahrer)   ";   :ceremony 66;   :year  1993.
+:OscarWinner402  schema:name   "Stacy Title, Jonathan Penner  ";   schema:award   "Short Film (Live Action)  ";   :film   "Down on the Waterfront   ";   :ceremony 66;   :year  1993.
+:OscarWinner403  schema:name   "Susan Seidelman, Jonathan Brett  ";   schema:award   "Short Film (Live Action)  ";   :film   "The Dutch Master   ";   :ceremony 66;   :year  1993.
+:OscarWinner404  schema:name   "Peter Weller, Jana Sue Memel  ";   schema:award   "Short Film (Live Action)  ";   :film   "Partners   ";   :ceremony 66;   :year  1993.
+:OscarWinner405  schema:name   "Didier Flamand  ";   schema:award   "Short Film (Live Action)  ";   :film   "The Screw (La Vis)   ";   :ceremony 66;   :year  1993.
+:OscarWinner406  schema:name   "Michael Minkler, Bob Beemer, Tim Cooney  ";   schema:award   "Sound  ";   :film   "Cliffhanger   ";   :ceremony 66;   :year  1993.
+:OscarWinner407  schema:name   "Donald O. Mitchell, Michael Herbick, Frank A. MontaÃ±o, Scott D. Smith  ";   schema:award   "Sound  ";   :film   "The Fugitive   ";   :ceremony 66;   :year  1993.
+:OscarWinner408  schema:name   "Chris Carpenter, D. M. Hemphill, Bill W. Benton, Lee Orloff  ";   schema:award   "Sound  ";   :film   "Geronimo: An American Legend   ";   :ceremony 66;   :year  1993.
+:OscarWinner409  schema:name   "Gary Summers, Gary Rydstrom, Shawn Murphy, Ron Judkins  ";   schema:award   "Sound  ";   :film   "Jurassic Park   ";   :ceremony 66;   :year  1993.
+:OscarWinner410  schema:name   "Andy Nelson, Steve Pederson, Scott Millan, Ron Judkins  ";   schema:award   "Sound  ";   :film   "Schindler's List   ";   :ceremony 66;   :year  1993.
+:OscarWinner411  schema:name   "Wylie Stateman, Gregg Baxter  ";   schema:award   "Sound Effects Editing  ";   :film   "Cliffhanger   ";   :ceremony 66;   :year  1993.
+:OscarWinner412  schema:name   "John Leveque, Bruce Stambler  ";   schema:award   "Sound Effects Editing  ";   :film   "The Fugitive   ";   :ceremony 66;   :year  1993.
+:OscarWinner413  schema:name   "Gary Rydstrom, Richard Hymns  ";   schema:award   "Sound Effects Editing  ";   :film   "Jurassic Park   ";   :ceremony 66;   :year  1993.
+:OscarWinner414  schema:name   "Neil Krepela, John Richardson, John Bruno, Pamela Easley  ";   schema:award   "Visual Effects  ";   :film   "Cliffhanger   ";   :ceremony 66;   :year  1993.
+:OscarWinner415  schema:name   "Dennis Muren, Stan Winston, Phil Tippett, Michael Lantieri  ";   schema:award   "Visual Effects  ";   :film   "Jurassic Park   ";   :ceremony 66;   :year  1993.
+:OscarWinner416  schema:name   "Pete Kozachik, Eric Leighton, Ariel Velasco Shaw, Gordon Baker  ";   schema:award   "Visual Effects  ";   :film   "The Nightmare before Christmas   ";   :ceremony 66;   :year  1993.
+:OscarWinner417  schema:name   "Jay Cocks, Martin Scorsese  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "The Age of Innocence   ";   :ceremony 66;   :year  1993.
+:OscarWinner418  schema:name   "Terry George, Jim Sheridan  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "In the Name of the Father   ";   :ceremony 66;   :year  1993.
+:OscarWinner419  schema:name   "Ruth Prawer Jhabvala  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "The Remains of the Day   ";   :ceremony 66;   :year  1993.
+:OscarWinner420  schema:name   "Steven Zaillian  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "Schindler's List   ";   :ceremony 66;   :year  1993.
+:OscarWinner421  schema:name   "William Nicholson  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "Shadowlands   ";   :ceremony 66;   :year  1993.
+:OscarWinner422  schema:name   "Gary Ross  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Dave   ";   :ceremony 66;   :year  1993.
+:OscarWinner423  schema:name   "Jeff Maguire  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "In the Line of Fire   ";   :ceremony 66;   :year  1993.
+:OscarWinner424  schema:name   "Ron Nyswaner  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Philadelphia   ";   :ceremony 66;   :year  1993.
+:OscarWinner425  schema:name   "Jane Campion  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "The Piano   ";   :ceremony 66;   :year  1993.
+:OscarWinner426  schema:name   "Screenplay by Nora Ephron, David S. Ward, Jeff Arch  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Sleepless in Seattle   ";   :ceremony 66;   :year  1993.
+:OscarWinner427  schema:name   "The Shawshank Redemption  ";   schema:award   "Actor in a Leading Role  ";   :film   "Morgan Freeman  ";   :ceremony 67;   :year  1994.
+:OscarWinner428  schema:name   "Forrest Gump  ";   schema:award   "Actor in a Leading Role  ";   :film   "Tom Hanks  ";   :ceremony 67;   :year  1994.
+:OscarWinner429  schema:name   "The Madness of King George  ";   schema:award   "Actor in a Leading Role  ";   :film   "Nigel Hawthorne  ";   :ceremony 67;   :year  1994.
+:OscarWinner430  schema:name   "Nobody's Fool  ";   schema:award   "Actor in a Leading Role  ";   :film   "Paul Newman  ";   :ceremony 67;   :year  1994.
+:OscarWinner431  schema:name   "Pulp Fiction  ";   schema:award   "Actor in a Leading Role  ";   :film   "John Travolta  ";   :ceremony 67;   :year  1994.
+:OscarWinner432  schema:name   "Pulp Fiction  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Samuel L. Jackson  ";   :ceremony 67;   :year  1994.
+:OscarWinner433  schema:name   "Ed Wood  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Martin Landau  ";   :ceremony 67;   :year  1994.
+:OscarWinner434  schema:name   "Bullets over Broadway  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Chazz Palminteri  ";   :ceremony 67;   :year  1994.
+:OscarWinner435  schema:name   "Quiz Show  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Paul Scofield  ";   :ceremony 67;   :year  1994.
+:OscarWinner436  schema:name   "Forrest Gump  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Gary Sinise  ";   :ceremony 67;   :year  1994.
+:OscarWinner437  schema:name   "Nell  ";   schema:award   "Actress in a Leading Role  ";   :film   "Jodie Foster  ";   :ceremony 67;   :year  1994.
+:OscarWinner438  schema:name   "Blue Sky  ";   schema:award   "Actress in a Leading Role  ";   :film   "Jessica Lange  ";   :ceremony 67;   :year  1994.
+:OscarWinner439  schema:name   "Tom & Viv  ";   schema:award   "Actress in a Leading Role  ";   :film   "Miranda Richardson  ";   :ceremony 67;   :year  1994.
+:OscarWinner440  schema:name   "Little Women  ";   schema:award   "Actress in a Leading Role  ";   :film   "Winona Ryder  ";   :ceremony 67;   :year  1994.
+:OscarWinner441  schema:name   "The Client  ";   schema:award   "Actress in a Leading Role  ";   :film   "Susan Sarandon  ";   :ceremony 67;   :year  1994.
+:OscarWinner442  schema:name   "Tom & Viv  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Rosemary Harris  ";   :ceremony 67;   :year  1994.
+:OscarWinner443  schema:name   "The Madness of King George  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Helen Mirren  ";   :ceremony 67;   :year  1994.
+:OscarWinner444  schema:name   "Pulp Fiction  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Uma Thurman  ";   :ceremony 67;   :year  1994.
+:OscarWinner445  schema:name   "Bullets over Broadway  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Jennifer Tilly  ";   :ceremony 67;   :year  1994.
+:OscarWinner446  schema:name   "Bullets over Broadway  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Dianne Wiest  ";   :ceremony 67;   :year  1994.
+:OscarWinner447  schema:name   "Art Direction: Santo Loquasto  ";   schema:award   "Art Direction  ";   :film   "Bullets over Broadway   ";   :ceremony 67;   :year  1994.
+:OscarWinner448  schema:name   "Art Direction: Rick Carter  ";   schema:award   "Art Direction  ";   :film   "Forrest Gump   ";   :ceremony 67;   :year  1994.
+:OscarWinner449  schema:name   "Art Direction: Dante Ferretti  ";   schema:award   "Art Direction  ";   :film   "Interview with the Vampire   ";   :ceremony 67;   :year  1994.
+:OscarWinner450  schema:name   "Art Direction: Lilly Kilvert  ";   schema:award   "Art Direction  ";   :film   "Legends of the Fall   ";   :ceremony 67;   :year  1994.
+:OscarWinner451  schema:name   "Art Direction: Ken Adam  ";   schema:award   "Art Direction  ";   :film   "The Madness of King George   ";   :ceremony 67;   :year  1994.
+:OscarWinner452  schema:name   "Don Burgess  ";   schema:award   "Cinematography  ";   :film   "Forrest Gump   ";   :ceremony 67;   :year  1994.
+:OscarWinner453  schema:name   "John Toll  ";   schema:award   "Cinematography  ";   :film   "Legends of the Fall   ";   :ceremony 67;   :year  1994.
+:OscarWinner454  schema:name   "Piotr Sobocinski  ";   schema:award   "Cinematography  ";   :film   "Red   ";   :ceremony 67;   :year  1994.
+:OscarWinner455  schema:name   "Roger Deakins  ";   schema:award   "Cinematography  ";   :film   "The Shawshank Redemption   ";   :ceremony 67;   :year  1994.
+:OscarWinner456  schema:name   "Owen Roizman  ";   schema:award   "Cinematography  ";   :film   "Wyatt Earp   ";   :ceremony 67;   :year  1994.
+:OscarWinner457  schema:name   "Lizzy Gardiner, Tim Chappel  ";   schema:award   "Costume Design  ";   :film   "The Adventures of Priscilla, Queen of the Desert   ";   :ceremony 67;   :year  1994.
+:OscarWinner458  schema:name   "Jeffrey Kurland  ";   schema:award   "Costume Design  ";   :film   "Bullets over Broadway   ";   :ceremony 67;   :year  1994.
+:OscarWinner459  schema:name   "Colleen Atwood  ";   schema:award   "Costume Design  ";   :film   "Little Women   ";   :ceremony 67;   :year  1994.
+:OscarWinner460  schema:name   "April Ferry  ";   schema:award   "Costume Design  ";   :film   "Maverick   ";   :ceremony 67;   :year  1994.
+:OscarWinner461  schema:name   "Moidele Bickel  ";   schema:award   "Costume Design  ";   :film   "Queen Margot   ";   :ceremony 67;   :year  1994.
+:OscarWinner462  schema:name   "Woody Allen  ";   schema:award   "Directing  ";   :film   "Bullets over Broadway   ";   :ceremony 67;   :year  1994.
+:OscarWinner463  schema:name   "Robert Zemeckis  ";   schema:award   "Directing  ";   :film   "Forrest Gump   ";   :ceremony 67;   :year  1994.
+:OscarWinner464  schema:name   "Quentin Tarantino  ";   schema:award   "Directing  ";   :film   "Pulp Fiction   ";   :ceremony 67;   :year  1994.
+:OscarWinner465  schema:name   "Robert Redford  ";   schema:award   "Directing  ";   :film   "Quiz Show   ";   :ceremony 67;   :year  1994.
+:OscarWinner466  schema:name   "Krzysztof Kieslowski  ";   schema:award   "Directing  ";   :film   "Red   ";   :ceremony 67;   :year  1994.
+:OscarWinner467  schema:name   "Deborah Hoffmann  ";   schema:award   "Documentary (Feature)  ";   :film   "Complaints of a Dutiful Daughter   ";   :ceremony 67;   :year  1994.
+:OscarWinner468  schema:name   "Charles Guggenheim  ";   schema:award   "Documentary (Feature)  ";   :film   "D-Day Remembered   ";   :ceremony 67;   :year  1994.
+:OscarWinner469  schema:name   "Connie Field, Marilyn Mulford  ";   schema:award   "Documentary (Feature)  ";   :film   "Freedom on My Mind   ";   :ceremony 67;   :year  1994.
+:OscarWinner470  schema:name   "Jean Bach  ";   schema:award   "Documentary (Feature)  ";   :film   "A Great Day in Harlem   ";   :ceremony 67;   :year  1994.
+:OscarWinner471  schema:name   "Freida Lee Mock, Terry Sanders  ";   schema:award   "Documentary (Feature)  ";   :film   "Maya Lin: A Strong Clear Vision   ";   :ceremony 67;   :year  1994.
+:OscarWinner472  schema:name   "Vince DiPersio, Bill Guttentag  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Blues Highway   ";   :ceremony 67;   :year  1994.
+:OscarWinner473  schema:name   "Marcel Lozinski  ";   schema:award   "Documentary (Short Subject)  ";   :film   "89mm od Europy (89mm from Europe)   ";   :ceremony 67;   :year  1994.
+:OscarWinner474  schema:name   "Robert Richter  ";   schema:award   "Documentary (Short Subject)  ";   :film   "School of Assassins   ";   :ceremony 67;   :year  1994.
+:OscarWinner475  schema:name   "Dee Mosbacher, Frances Reid  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Straight from the Heart   ";   :ceremony 67;   :year  1994.
+:OscarWinner476  schema:name   "Charles Guggenheim  ";   schema:award   "Documentary (Short Subject)  ";   :film   "A Time for Justice   ";   :ceremony 67;   :year  1994.
+:OscarWinner477  schema:name   "Arthur Schmidt  ";   schema:award   "Film Editing  ";   :film   "Forrest Gump   ";   :ceremony 67;   :year  1994.
+:OscarWinner478  schema:name   "Frederick Marx, Steve James, Bill Haugse  ";   schema:award   "Film Editing  ";   :film   "Hoop Dreams   ";   :ceremony 67;   :year  1994.
+:OscarWinner479  schema:name   "Sally Menke  ";   schema:award   "Film Editing  ";   :film   "Pulp Fiction   ";   :ceremony 67;   :year  1994.
+:OscarWinner480  schema:name   "Richard Francis-Bruce  ";   schema:award   "Film Editing  ";   :film   "The Shawshank Redemption   ";   :ceremony 67;   :year  1994.
+:OscarWinner481  schema:name   "John Wright  ";   schema:award   "Film Editing  ";   :film   "Speed   ";   :ceremony 67;   :year  1994.
+:OscarWinner482  schema:name   "The Former Yugoslav Republic of Macedonia  ";   schema:award   "Foreign Language Film  ";   :film   "Before the Rain   ";   :ceremony 67;   :year  1994.
+:OscarWinner483  schema:name   "Russia  ";   schema:award   "Foreign Language Film  ";   :film   "Burnt by the Sun   ";   :ceremony 67;   :year  1994.
+:OscarWinner484  schema:name   "Taiwan  ";   schema:award   "Foreign Language Film  ";   :film   "Eat Drink Man Woman   ";   :ceremony 67;   :year  1994.
+:OscarWinner485  schema:name   "Belgium  ";   schema:award   "Foreign Language Film  ";   :film   "Farinelli: Il Castrato   ";   :ceremony 67;   :year  1994.
+:OscarWinner486  schema:name   "Cuba  ";   schema:award   "Foreign Language Film  ";   :film   "Strawberry and Chocolate   ";   :ceremony 67;   :year  1994.
+:OscarWinner487  schema:name   "Rick Baker, Ve Neill, Yolanda Toussieng  ";   schema:award   "Makeup  ";   :film   "Ed Wood   ";   :ceremony 67;   :year  1994.
+:OscarWinner488  schema:name   "Daniel C. Striepeke, Hallie D'Amore, Judith A. Cory  ";   schema:award   "Makeup  ";   :film   "Forrest Gump   ";   :ceremony 67;   :year  1994.
+:OscarWinner489  schema:name   "Daniel Parker, Paul Engelen, Carol Hemming  ";   schema:award   "Makeup  ";   :film   "Mary Shelley's Frankenstein   ";   :ceremony 67;   :year  1994.
+:OscarWinner490  schema:name   "Alan Silvestri  ";   schema:award   "Music (Original Score)  ";   :film   "Forrest Gump   ";   :ceremony 67;   :year  1994.
+:OscarWinner491  schema:name   "Elliot Goldenthal  ";   schema:award   "Music (Original Score)  ";   :film   "Interview with the Vampire   ";   :ceremony 67;   :year  1994.
+:OscarWinner492  schema:name   "Hans Zimmer  ";   schema:award   "Music (Original Score)  ";   :film   "The Lion King   ";   :ceremony 67;   :year  1994.
+:OscarWinner493  schema:name   "Thomas Newman  ";   schema:award   "Music (Original Score)  ";   :film   "Little Women   ";   :ceremony 67;   :year  1994.
+:OscarWinner494  schema:name   "Thomas Newman  ";   schema:award   "Music (Original Score)  ";   :film   "The Shawshank Redemption   ";   :ceremony 67;   :year  1994.
+:OscarWinner495  schema:name   "Music by Elton John  ";   schema:award   "Music (Original Song)  ";   :film   ""Can You Feel The Love Tonight" from The Lion King  ";   :ceremony 67;   :year  1994.
+:OscarWinner496  schema:name   "Music by Elton John  ";   schema:award   "Music (Original Song)  ";   :film   ""Circle Of Life" from The Lion King  ";   :ceremony 67;   :year  1994.
+:OscarWinner497  schema:name   "Music by Elton John  ";   schema:award   "Music (Original Song)  ";   :film   ""Hakuna Matata" from The Lion King  ";   :ceremony 67;   :year  1994.
+:OscarWinner498  schema:name   "Music and Lyric by Carole Bayer Sager, James Newton Howard, James Ingram and Patty Smyth  ";   schema:award   "Music (Original Song)  ";   :film   ""Look What Love Has Done" from Junior  ";   :ceremony 67;   :year  1994.
+:OscarWinner499  schema:name   "Music and Lyric by Randy Newman  ";   schema:award   "Music (Original Song)  ";   :film   ""Make Up Your Mind" from The Paper  ";   :ceremony 67;   :year  1994.
+:OscarWinner500  schema:name   "Wendy Finerman, Steve Tisch and Steve Starkey, Producers  ";   schema:award   "Best Picture  ";   :film   "Forrest Gump   ";   :ceremony 67;   :year  1994.
+:OscarWinner501  schema:name   "Duncan Kenworthy, Producer  ";   schema:award   "Best Picture  ";   :film   "Four Weddings and a Funeral   ";   :ceremony 67;   :year  1994.
+:OscarWinner502  schema:name   "Lawrence Bender, Producer  ";   schema:award   "Best Picture  ";   :film   "Pulp Fiction   ";   :ceremony 67;   :year  1994.
+:OscarWinner503  schema:name   "Robert Redford, Michael Jacobs, Julian Krainin and Michael Nozik, Producers  ";   schema:award   "Best Picture  ";   :film   "Quiz Show   ";   :ceremony 67;   :year  1994.
+:OscarWinner504  schema:name   "Niki Marvin, Producer  ";   schema:award   "Best Picture  ";   :film   "The Shawshank Redemption   ";   :ceremony 67;   :year  1994.
+:OscarWinner505  schema:name   "Tim Watts, David Stoten  ";   schema:award   "Short Film (Animated)  ";   :film   "The Big Story   ";   :ceremony 67;   :year  1994.
+:OscarWinner506  schema:name   "Alison Snowden, David Fine  ";   schema:award   "Short Film (Animated)  ";   :film   "Bob's Birthday   ";   :ceremony 67;   :year  1994.
+:OscarWinner507  schema:name   "Vanessa Schwartz  ";   schema:award   "Short Film (Animated)  ";   :film   "The Janitor   ";   :ceremony 67;   :year  1994.
+:OscarWinner508  schema:name   "Michael Dudok de Wit  ";   schema:award   "Short Film (Animated)  ";   :film   "The Monk and the Fish   ";   :ceremony 67;   :year  1994.
+:OscarWinner509  schema:name   "Erica Russell  ";   schema:award   "Short Film (Animated)  ";   :film   "Triangle   ";   :ceremony 67;   :year  1994.
+:OscarWinner510  schema:name   "Peter Capaldi, Ruth Kenley-Letts  ";   schema:award   "Short Film (Live Action)  ";   :film   "Franz Kafka's It's a Wonderful Life   ";   :ceremony 67;   :year  1994.
+:OscarWinner511  schema:name   "Sean Astin, Christine Astin  ";   schema:award   "Short Film (Live Action)  ";   :film   "Kangaroo Court   ";   :ceremony 67;   :year  1994.
+:OscarWinner512  schema:name   "JoBeth Williams, Michele McGuire  ";   schema:award   "Short Film (Live Action)  ";   :film   "On Hope   ";   :ceremony 67;   :year  1994.
+:OscarWinner513  schema:name   "Paul Unwin, Nick Vivian  ";   schema:award   "Short Film (Live Action)  ";   :film   "Syrup   ";   :ceremony 67;   :year  1994.
+:OscarWinner514  schema:name   "Peggy Rajski, Randy Stone  ";   schema:award   "Short Film (Live Action)  ";   :film   "Trevor   ";   :ceremony 67;   :year  1994.
+:OscarWinner515  schema:name   "Donald O. Mitchell, Michael Herbick, Frank A. MontaÃ±o, Arthur Rochester  ";   schema:award   "Sound  ";   :film   "Clear and Present Danger   ";   :ceremony 67;   :year  1994.
+:OscarWinner516  schema:name   "Randy Thom, Tom Johnson, Dennis Sands, William B. Kaplan  ";   schema:award   "Sound  ";   :film   "Forrest Gump   ";   :ceremony 67;   :year  1994.
+:OscarWinner517  schema:name   "Paul Massey, David Campbell, Christopher David, Douglas Ganton  ";   schema:award   "Sound  ";   :film   "Legends of the Fall   ";   :ceremony 67;   :year  1994.
+:OscarWinner518  schema:name   "Robert J. Litt, Elliot Tyson, Michael Herbick, Willie Burton  ";   schema:award   "Sound  ";   :film   "The Shawshank Redemption   ";   :ceremony 67;   :year  1994.
+:OscarWinner519  schema:name   "Gregg Landaker, Steve Maslow, Bob Beemer, David R. B. MacMillan  ";   schema:award   "Sound  ";   :film   "Speed   ";   :ceremony 67;   :year  1994.
+:OscarWinner520  schema:name   "Bruce Stambler, John Leveque  ";   schema:award   "Sound Effects Editing  ";   :film   "Clear and Present Danger   ";   :ceremony 67;   :year  1994.
+:OscarWinner521  schema:name   "Gloria S. Borders, Randy Thom  ";   schema:award   "Sound Effects Editing  ";   :film   "Forrest Gump   ";   :ceremony 67;   :year  1994.
+:OscarWinner522  schema:name   "Stephen Hunter Flick  ";   schema:award   "Sound Effects Editing  ";   :film   "Speed   ";   :ceremony 67;   :year  1994.
+:OscarWinner523  schema:name   "Ken Ralston, George Murphy, Stephen Rosenbaum, Allen Hall  ";   schema:award   "Visual Effects  ";   :film   "Forrest Gump   ";   :ceremony 67;   :year  1994.
+:OscarWinner524  schema:name   "Scott Squires, Steve Williams, Tom Bertino, Jon Farhat  ";   schema:award   "Visual Effects  ";   :film   "The Mask   ";   :ceremony 67;   :year  1994.
+:OscarWinner525  schema:name   "John Bruno, Thomas L. Fisher, Jacques Stroweis, Patrick McClung  ";   schema:award   "Visual Effects  ";   :film   "True Lies   ";   :ceremony 67;   :year  1994.
+:OscarWinner526  schema:name   "Eric Roth  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "Forrest Gump   ";   :ceremony 67;   :year  1994.
+:OscarWinner527  schema:name   "Alan Bennett  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "The Madness of King George   ";   :ceremony 67;   :year  1994.
+:OscarWinner528  schema:name   "Robert Benton  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "Nobody's Fool   ";   :ceremony 67;   :year  1994.
+:OscarWinner529  schema:name   "Paul Attanasio  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "Quiz Show   ";   :ceremony 67;   :year  1994.
+:OscarWinner530  schema:name   "Frank Darabont  ";   schema:award   "Writing (Screenplay Based on Material Previously Produced or Published)  ";   :film   "The Shawshank Redemption   ";   :ceremony 67;   :year  1994.
+:OscarWinner531  schema:name   "Woody Allen, Douglas McGrath  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Bullets over Broadway   ";   :ceremony 67;   :year  1994.
+:OscarWinner532  schema:name   "Richard Curtis  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Four Weddings and a Funeral   ";   :ceremony 67;   :year  1994.
+:OscarWinner533  schema:name   "Frances Walsh, Peter Jackson  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Heavenly Creatures   ";   :ceremony 67;   :year  1994.
+:OscarWinner534  schema:name   "Screenplay by Quentin Tarantino  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Pulp Fiction   ";   :ceremony 67;   :year  1994.
+:OscarWinner535  schema:name   "Krzysztof Piesiewicz, Krzysztof Kieslowski  ";   schema:award   "Writing (Screenplay Written Directly for the Screen)  ";   :film   "Red   ";   :ceremony 67;   :year  1994.
+:OscarWinner536  schema:name   "Leaving Las Vegas  ";   schema:award   "Actor in a Leading Role  ";   :film   "Nicolas Cage  ";   :ceremony 68;   :year  1995.
+:OscarWinner537  schema:name   "Mr. Holland's Opus  ";   schema:award   "Actor in a Leading Role  ";   :film   "Richard Dreyfuss  ";   :ceremony 68;   :year  1995.
+:OscarWinner538  schema:name   "Nixon  ";   schema:award   "Actor in a Leading Role  ";   :film   "Anthony Hopkins  ";   :ceremony 68;   :year  1995.
+:OscarWinner539  schema:name   "Dead Man Walking  ";   schema:award   "Actor in a Leading Role  ";   :film   "Sean Penn  ";   :ceremony 68;   :year  1995.
+:OscarWinner540  schema:name   "The Postman (Il Postino)  ";   schema:award   "Actor in a Leading Role  ";   :film   "Massimo Troisi  ";   :ceremony 68;   :year  1995.
+:OscarWinner541  schema:name   "Babe  ";   schema:award   "Actor in a Supporting Role  ";   :film   "James Cromwell  ";   :ceremony 68;   :year  1995.
+:OscarWinner542  schema:name   "Apollo 13  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Ed Harris  ";   :ceremony 68;   :year  1995.
+:OscarWinner543  schema:name   "12 Monkeys  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Brad Pitt  ";   :ceremony 68;   :year  1995.
+:OscarWinner544  schema:name   "Rob Roy  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Tim Roth  ";   :ceremony 68;   :year  1995.
+:OscarWinner545  schema:name   "The Usual Suspects  ";   schema:award   "Actor in a Supporting Role  ";   :film   "Kevin Spacey  ";   :ceremony 68;   :year  1995.
+:OscarWinner546  schema:name   "Dead Man Walking  ";   schema:award   "Actress in a Leading Role  ";   :film   "Susan Sarandon  ";   :ceremony 68;   :year  1995.
+:OscarWinner547  schema:name   "Leaving Las Vegas  ";   schema:award   "Actress in a Leading Role  ";   :film   "Elisabeth Shue  ";   :ceremony 68;   :year  1995.
+:OscarWinner548  schema:name   "Casino  ";   schema:award   "Actress in a Leading Role  ";   :film   "Sharon Stone  ";   :ceremony 68;   :year  1995.
+:OscarWinner549  schema:name   "The Bridges of Madison County  ";   schema:award   "Actress in a Leading Role  ";   :film   "Meryl Streep  ";   :ceremony 68;   :year  1995.
+:OscarWinner550  schema:name   "Sense and Sensibility  ";   schema:award   "Actress in a Leading Role  ";   :film   "Emma Thompson  ";   :ceremony 68;   :year  1995.
+:OscarWinner551  schema:name   "Nixon  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Joan Allen  ";   :ceremony 68;   :year  1995.
+:OscarWinner552  schema:name   "Apollo 13  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Kathleen Quinlan  ";   :ceremony 68;   :year  1995.
+:OscarWinner553  schema:name   "Mighty Aphrodite  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Mira Sorvino  ";   :ceremony 68;   :year  1995.
+:OscarWinner554  schema:name   "Georgia  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Mare Winningham  ";   :ceremony 68;   :year  1995.
+:OscarWinner555  schema:name   "Sense and Sensibility  ";   schema:award   "Actress in a Supporting Role  ";   :film   "Kate Winslet  ";   :ceremony 68;   :year  1995.
+:OscarWinner556  schema:name   "Art Direction: Michael Corenblith  ";   schema:award   "Art Direction  ";   :film   "Apollo 13   ";   :ceremony 68;   :year  1995.
+:OscarWinner557  schema:name   "Art Direction: Roger Ford  ";   schema:award   "Art Direction  ";   :film   "Babe   ";   :ceremony 68;   :year  1995.
+:OscarWinner558  schema:name   "Art Direction: Bo Welch  ";   schema:award   "Art Direction  ";   :film   "A Little Princess   ";   :ceremony 68;   :year  1995.
+:OscarWinner559  schema:name   "Eugenio Zanetti  ";   schema:award   "Art Direction  ";   :film   "Restoration   ";   :ceremony 68;   :year  1995.
+:OscarWinner560  schema:name   "Tony Burrough  ";   schema:award   "Art Direction  ";   :film   "Richard III   ";   :ceremony 68;   :year  1995.
+:OscarWinner561  schema:name   "Stephen Goldblatt  ";   schema:award   "Cinematography  ";   :film   "Batman Forever   ";   :ceremony 68;   :year  1995.
+:OscarWinner562  schema:name   "John Toll  ";   schema:award   "Cinematography  ";   :film   "Braveheart   ";   :ceremony 68;   :year  1995.
+:OscarWinner563  schema:name   "Emmanuel Lubezki  ";   schema:award   "Cinematography  ";   :film   "A Little Princess   ";   :ceremony 68;   :year  1995.
+:OscarWinner564  schema:name   "Michael Coulter  ";   schema:award   "Cinematography  ";   :film   "Sense and Sensibility   ";   :ceremony 68;   :year  1995.
+:OscarWinner565  schema:name   "Lu Yue  ";   schema:award   "Cinematography  ";   :film   "Shanghai Triad   ";   :ceremony 68;   :year  1995.
+:OscarWinner566  schema:name   "Charles Knode  ";   schema:award   "Costume Design  ";   :film   "Braveheart   ";   :ceremony 68;   :year  1995.
+:OscarWinner567  schema:name   "James Acheson  ";   schema:award   "Costume Design  ";   :film   "Restoration   ";   :ceremony 68;   :year  1995.
+:OscarWinner568  schema:name   "Shuna Harwood  ";   schema:award   "Costume Design  ";   :film   "Richard III   ";   :ceremony 68;   :year  1995.
+:OscarWinner569  schema:name   "Jenny Beavan, John Bright  ";   schema:award   "Costume Design  ";   :film   "Sense and Sensibility   ";   :ceremony 68;   :year  1995.
+:OscarWinner570  schema:name   "Julie Weiss  ";   schema:award   "Costume Design  ";   :film   "12 Monkeys   ";   :ceremony 68;   :year  1995.
+:OscarWinner571  schema:name   "Chris Noonan  ";   schema:award   "Directing  ";   :film   "Babe   ";   :ceremony 68;   :year  1995.
+:OscarWinner572  schema:name   "Mel Gibson  ";   schema:award   "Directing  ";   :film   "Braveheart   ";   :ceremony 68;   :year  1995.
+:OscarWinner573  schema:name   "Tim Robbins  ";   schema:award   "Directing  ";   :film   "Dead Man Walking   ";   :ceremony 68;   :year  1995.
+:OscarWinner574  schema:name   "Mike Figgis  ";   schema:award   "Directing  ";   :film   "Leaving Las Vegas   ";   :ceremony 68;   :year  1995.
+:OscarWinner575  schema:name   "Michael Radford  ";   schema:award   "Directing  ";   :film   "The Postman (Il Postino)   ";   :ceremony 68;   :year  1995.
+:OscarWinner576  schema:name   "Jon Blair  ";   schema:award   "Documentary (Feature)  ";   :film   "Anne Frank Remembered   ";   :ceremony 68;   :year  1995.
+:OscarWinner577  schema:name   "Thomas Lennon, Michael Epstein  ";   schema:award   "Documentary (Feature)  ";   :film   "The Battle over Citizen Kane   ";   :ceremony 68;   :year  1995.
+:OscarWinner578  schema:name   "Allan Miller, Walter Scheuer  ";   schema:award   "Documentary (Feature)  ";   :film   "Fiddlefest--Roberta Tzavaras and Her East Harlem Violin Program   ";   :ceremony 68;   :year  1995.
+:OscarWinner579  schema:name   "Mike Tollin, Fredric Golding  ";   schema:award   "Documentary (Feature)  ";   :film   "Hank Aaron: Chasing the Dream   ";   :ceremony 68;   :year  1995.
+:OscarWinner580  schema:name   "Jeanne Jordan, Steven Ascher  ";   schema:award   "Documentary (Feature)  ";   :film   "Troublesome Creek: A Midwestern   ";   :ceremony 68;   :year  1995.
+:OscarWinner581  schema:name   "Nancy Dine, Richard Stilwell  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Jim Dine: A Self-Portrait on the Walls   ";   :ceremony 68;   :year  1995.
+:OscarWinner582  schema:name   "Greg MacGillivray, Alec Lorimore  ";   schema:award   "Documentary (Short Subject)  ";   :film   "The Living Sea   ";   :ceremony 68;   :year  1995.
+:OscarWinner583  schema:name   "Terry Sanders, Freida Lee Mock  ";   schema:award   "Documentary (Short Subject)  ";   :film   "Never Give Up: The 20th Century Odyssey of Herbert Zipper   ";   :ceremony 68;   :year  1995.
+:OscarWinner584  schema:name   "Kary Antholis  ";   schema:award   "Documentary (Short Subject)  ";   :film   "One Survivor Remembers   ";   :ceremony 68;   :year  1995.
+:OscarWinner585  schema:name   "Charles Guggenheim  ";   schema:award   "Documentary (Short Subject)  ";   :film   "The Shadow of Hate   ";   :ceremony 68;   :year  1995.
+:OscarWinner586  schema:name   "Mike Hill, Dan Hanley  ";   schema:award   "Film Editing  ";   :film   "Apollo 13   ";   :ceremony 68;   :year  1995.
+:OscarWinner587  schema:name   "Marcus D'Arcy, Jay Friedkin  ";   schema:award   "Film Editing  ";   :film   "Babe   ";   :ceremony 68;   :year  1995.
+:OscarWinner588  schema:name   "Steven Rosenblum  ";   schema:award   "Film Editing  ";   :film   "Braveheart   ";   :ceremony 68;   :year  1995.
+:OscarWinner589  schema:name   "Chris Lebenzon  ";   schema:award   "Film Editing  ";   :film   "Crimson Tide   ";   :ceremony 68;   :year  1995.
+:OscarWinner590  schema:name   "Richard Francis-Bruce  ";   schema:award   "Film Editing  ";   :film   "Seven   ";   :ceremony 68;   :year  1995.
+:OscarWinner591  schema:name   "Sweden  ";   schema:award   "Foreign Language Film  ";   :film   "All Things Fair   ";   :ceremony 68;   :year  1995.
+:OscarWinner592  schema:name   "The Netherlands  ";   schema:award   "Foreign Language Film  ";   :film   "Antonia's Line   ";   :ceremony 68;   :year  1995.
+:OscarWinner593  schema:name   "Algeria  ";   schema:award   "Foreign Language Film  ";   :film   "Dust of Life   ";   :ceremony 68;   :year  1995.
+:OscarWinner594  schema:name   "Brazil  ";   schema:award   "Foreign Language Film  ";   :film   "O Quatrilho   ";   :ceremony 68;   :year  1995.
+:OscarWinner595  schema:name   "Italy  ";   schema:award   "Foreign Language Film  ";   :film   "The Star Maker   ";   :ceremony 68;   :year  1995.
+:OscarWinner596  schema:name   "Peter Frampton, Paul Pattison, Lois Burwell  ";   schema:award   "Makeup  ";   :film   "Braveheart   ";   :ceremony 68;   :year  1995.
+:OscarWinner597  schema:name   "Ken Diaz, Mark Sanchez  ";   schema:award   "Makeup  ";   :film   "My Family, Mi Familia   ";   :ceremony 68;   :year  1995.
+:OscarWinner598  schema:name   "Greg Cannom, Bob Laden, Colleen Callaghan  ";   schema:award   "Makeup  ";   :film   "Roommates   ";   :ceremony 68;   :year  1995.
+:OscarWinner599  schema:name   "James Horner  ";   schema:award   "Music (Original Dramatic Score)  ";   :film   "Apollo 13   ";   :ceremony 68;   :year  1995.
+:OscarWinner600  schema:name   "James Horner  ";   schema:award   "Music (Original Dramatic Score)  ";   :film   "Braveheart   ";   :ceremony 68;   :year  1995.
+:OscarWinner601  schema:name   "John Williams  ";   schema:award   "Music (Original Dramatic Score)  ";   :film   "Nixon   ";   :ceremony 68;   :year  1995.
+:OscarWinner602  schema:name   "Luis Enrique Bacalov  ";   schema:award   "Music (Original Dramatic Score)  ";   :film   "The Postman (Il Postino)   ";   :ceremony 68;   :year  1995.
+:OscarWinner603  schema:name   "Patrick Doyle  ";   schema:award   "Music (Original Dramatic Score)  ";   :film   "Sense and Sensibility   ";   :ceremony 68;   :year  1995.
+:OscarWinner604  schema:name   "Marc Shaiman  ";   schema:award   "Music (Original Musical or Comedy Score)  ";   :film   "The American President   ";   :ceremony 68;   :year  1995.
+:OscarWinner605  schema:name   "Music by Alan Menken  ";   schema:award   "Music (Original Musical or Comedy Score)  ";   :film   "Pocahontas   ";   :ceremony 68;   :year  1995.
+:OscarWinner606  schema:name   "John Williams  ";   schema:award   "Music (Original Musical or Comedy Score)  ";   :film   "Sabrina   ";   :ceremony 68;   :year  1995.
+:OscarWinner607  schema:name   "Randy Newman  ";   schema:award   "Music (Original Musical or Comedy Score)  ";   :film   "Toy Story   ";   :ceremony 68;   :year  1995.
+:OscarWinner608  schema:name   "Thomas Newman  ";   schema:award   "Music (Original Musical or Comedy Score)  ";   :film   "Unstrung Heroes   ";   :ceremony 68;   :year  1995.
+:OscarWinner609  schema:name   "Music by Alan Menken  ";   schema:award   "Music (Original Song)  ";   :film   ""Colors Of The Wind" from Pocahontas  ";   :ceremony 68;   :year  1995.
+:OscarWinner610  schema:name   "Music and Lyric by Bruce Springsteen  ";   schema:award   "Music (Original Song)  ";   :film   ""Dead Man Walkin'" from Dead Man Walking  ";   :ceremony 68;   :year  1995.
+:OscarWinner611  schema:name   "Music and Lyric by Michael Kamen, Bryan Adams and Robert John Lange  ";   schema:award   "Music (Original Song)  ";   :film   ""Have You Ever Really Loved A Woman" from Don Juan DeMarco  ";   :ceremony 68;   :year  1995.
+:OscarWinner612  schema:name   "Music by John Williams  ";   schema:award   "Music (Original Song)  ";   :film   ""Moonlight" from Sabrina  ";   :ceremony 68;   :year  1995.
+:OscarWinner613  schema:name   "Music and Lyric by Randy Newman  ";   schema:award   "Music (Original Song)  ";   :film   ""You've Got A Friend In Me" from Toy Story  ";   :ceremony 68;   :year  1995.
+:OscarWinner614  schema:name   "Brian Grazer, Producer  ";   schema:award   "Best Picture  ";   :film   "Apollo 13   ";   :ceremony 68;   :year  1995.
+:OscarWinner615  schema:name   "George Miller, Doug Mitchell and Bill Miller, Producers  ";   schema:award   "Best Picture  ";   :film   "Babe   ";   :ceremony 68;   :year  1995.
+:OscarWinner616  schema:name   "Mel Gibson, Alan Ladd, Jr. and Bruce Davey, Producers  ";   schema:award   "Best Picture  ";   :film   "Braveheart   ";   :ceremony 68;   :year  1995.
+:OscarWinner617  schema:name   "Mario Cecchi Gori, Vittorio Cecchi Gori and Gaetano Daniele, Producers  ";   schema:award   "Best Picture  ";   :film   "The Postman (Il Postino)   ";   :ceremony 68;   :year  1995.
+:OscarWinner618  schema:name   "Lindsay Doran, Producer  ";   schema:award   "Best Picture  ";   :film   "Sense and Sensibility   ";   :ceremony 68;   :year  1995.
+:OscarWinner619  schema:name   "John R. Dilworth  ";   schema:award   "Short Film (Animated)  ";   :film   "The Chicken from Outer Space   ";   :ceremony 68;   :year  1995.
+:OscarWinner620  schema:name   "Frank J. Urioste  ";   schema:award   "Film Editing  ";   :film   "Basic Instinct   ";   :ceremony 68;   :year  1995.
